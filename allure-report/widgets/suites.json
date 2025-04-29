@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"3dbc9eb4ec772997fddf6db7b44db8be","name":"Login/login.spec.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":6,"unknown":0,"total":6}},{"uid":"0f95a8fc52d332ee77cc5dfe5139f93a","name":"Profile/getProfile.test.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

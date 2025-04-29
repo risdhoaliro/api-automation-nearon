@@ -1,0 +1,27 @@
+{
+  "name": "api-automation-nearon",
+  "version": "1.0.0",
+  "description": "API Automation menggunakan Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:allure": "npx playwright test --reporter=line,allure-playwright",
+    "report": "npx allure generate allure-results -o allure-report --clean",
+    "build": "npm run report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.24",
+    "allure-playwright": "^3.2.1",
+    "module-alias": "^2.2.3",
+    "typescript": "^5.3.3"
+  },
+  "_moduleAliases": {
+    "@src": "src",
+    "@tests": "tests"
+  }
+}
