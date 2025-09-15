@@ -1,0 +1,3 @@
+✅ Token obtained for concurrent logout test
+⚠️ Note: All concurrent logout requests succeeded (API behavior)
+✅ Concurrent logout test completed

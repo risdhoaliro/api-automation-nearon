@@ -1,0 +1,12 @@
+{
+  "scenario": "Empty Password",
+  "testData": {
+    "username": "testuser",
+    "password": "[EMPTY]"
+  },
+  "response": {
+    "code": 400,
+    "status": false,
+    "message": "Key: 'LoginRequest.Password' Error:Field validation for 'Password' failed on the 'required' tag"
+  }
+}

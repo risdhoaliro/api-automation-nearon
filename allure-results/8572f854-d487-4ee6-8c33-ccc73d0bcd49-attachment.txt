@@ -1,0 +1,2 @@
+⚠️ Note: Logout succeeded even with invalid token (API behavior)
+✅ Invalid token logout test completed

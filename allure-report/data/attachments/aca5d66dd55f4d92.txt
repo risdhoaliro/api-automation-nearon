@@ -1,0 +1,3 @@
+✅ Client login successful, token obtained
+✅ Client token cleared from cookie after logout
+✅ Client logout completed in 145ms

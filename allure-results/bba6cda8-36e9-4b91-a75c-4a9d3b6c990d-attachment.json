@@ -1,0 +1,12 @@
+{
+  "scenario": "Special Characters",
+  "testData": {
+    "username": "user@#$%^&*()",
+    "password": "[REDACTED]"
+  },
+  "response": {
+    "code": 404,
+    "status": false,
+    "message": "User not found"
+  }
+}

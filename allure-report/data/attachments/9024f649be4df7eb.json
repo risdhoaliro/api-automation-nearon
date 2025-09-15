@@ -1,0 +1,6 @@
+{
+  "method": "GET",
+  "statusCode": 405,
+  "statusText": "Method Not Allowed",
+  "responseText": "Method Not Allowed"
+}

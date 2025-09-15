@@ -1,0 +1,6 @@
+⚠️ Note: Malformed token 1 logout succeeded (API behavior)
+⚠️ Note: Malformed token 2 logout succeeded (API behavior)
+⚠️ Note: Malformed token 3 logout succeeded (API behavior)
+⚠️ Note: Malformed token 4 logout succeeded (API behavior)
+⚠️ Note: Malformed token 5 logout succeeded (API behavior)
+⚠️ Note: Malformed token 6 logout succeeded (API behavior)

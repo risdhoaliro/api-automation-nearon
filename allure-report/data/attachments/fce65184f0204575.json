@@ -1,0 +1,20 @@
+{
+  "totalRequests": 2,
+  "successfulRequests": 2,
+  "failedRequests": 0,
+  "averageDuration": 136,
+  "slowestRequest": {
+    "endpoint": "/api/auth/logout",
+    "method": "POST",
+    "testCase": "Admin Logout",
+    "duration": 160,
+    "status": true
+  },
+  "fastestRequest": {
+    "endpoint": "/api/auth/logout",
+    "method": "POST",
+    "testCase": "Client Logout",
+    "duration": 112,
+    "status": true
+  }
+}

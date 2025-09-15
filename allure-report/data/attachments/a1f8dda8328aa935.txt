@@ -1,0 +1,2 @@
+🚀 API Interceptor enabled for Login API tests
+✅ Client login completed in 679ms

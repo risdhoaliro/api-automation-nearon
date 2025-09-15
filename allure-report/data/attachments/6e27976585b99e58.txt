@@ -1,0 +1,2 @@
+✅ Token obtained for wrong method test
+✅ GET method properly rejected with status: 405

@@ -1,0 +1,12 @@
+📊 Running logout performance summary test...
+Admin Logout took 352ms
+Client Logout took 87ms
+
+📊 API Performance Summary:
+   Total Requests: 2
+   ✅ Successful: 2
+   ❌ Failed: 0
+   ⏱️  Average Duration: 220ms
+   🐌 Slowest: POST /api/auth/logout (352ms)
+   🚀 Fastest: POST /api/auth/logout (87ms)
+📊 Logout performance summary test completed

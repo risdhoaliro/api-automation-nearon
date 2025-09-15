@@ -1,0 +1,9 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.invalid-paylo...",
+  "response": {
+    "code": 200,
+    "status": true,
+    "message": "success",
+    "data": null
+  }
+}

@@ -1,0 +1,2 @@
+🚀 API Interceptor enabled for Logout API tests
+✅ Client login successful, token obtained

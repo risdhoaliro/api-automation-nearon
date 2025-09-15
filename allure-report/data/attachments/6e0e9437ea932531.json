@@ -1,0 +1,9 @@
+{
+  "token": "header.payload.signature.extra...",
+  "response": {
+    "code": 200,
+    "status": true,
+    "message": "success",
+    "data": null
+  }
+}

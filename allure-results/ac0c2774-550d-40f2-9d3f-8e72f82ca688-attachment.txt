@@ -1,0 +1,2 @@
+⚠️ Note: Logout succeeded even without token (API behavior)
+✅ No token logout test completed

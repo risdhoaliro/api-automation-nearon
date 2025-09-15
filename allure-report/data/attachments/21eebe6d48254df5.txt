@@ -1,0 +1,188 @@
+
+🔐 Permission Analysis - Client Login
+════════════════════════════════════════════════════════════
+👤 User: synapsis (Abdul Djafar Sidikz)
+📧 Email: synapsis@gmail.com
+🌐 Global Role: Customer (1 permissions)
+📋 Global Permissions:
+   1. View User (user)
+📁 Project Role: Administrator in NEARN
+📊 Project Permissions: 66
+📋 Project Permission Summary by Type:
+   🏷️  category-management: 4 permissions
+      - Create Category Management
+      - Delete Category Management
+      - Edit Category Management
+      - View Category Management
+   🏷️  cctv-management: 4 permissions
+      - Create CCTV
+      - Delete CCTV
+      - Edit CCTV
+      - View CCTV Management
+   🏷️  cctv-monitoring: 3 permissions
+      - Control CCTV
+      - Detail CCTV
+      - View CCTV Monitoring
+   🏷️  dashboard-monitoring: 2 permissions
+      - Edit Customize Chart
+      - View Dashboard Monitoring
+   🏷️  field: 4 permissions
+      - Create Field
+      - Delete Field
+      - Edit Field
+      - View Field
+   🏷️  log: 1 permissions
+      - View log
+   🏷️  project-actuator: 4 permissions
+      - Create Actuator
+      - Delete Actuator
+      - Edit Actuator
+      - View Actuator
+   🏷️  project-group: 4 permissions
+      - Create Group
+      - Delete Group
+      - Edit Group
+      - View Group
+   🏷️  project-node: 4 permissions
+      - Create Node
+      - Delete Node
+      - Edit Node
+      - View Node
+   🏷️  project-project: 4 permissions
+      - Create Project
+      - Delete Project
+      - Edit Project
+      - View Project
+   🏷️  project-sensor: 4 permissions
+      - Create Sensor
+      - Delete Sensor
+      - Edit Sensor
+      - View Sensor
+   🏷️  report-management: 5 permissions
+      - Create Report Settings
+      - Delete Report Settings
+      - Edit Report Settings
+      - View & Download File
+      - View Report Management
+   🏷️  role: 4 permissions
+      - Create Role
+      - Delete Role
+      - Edit Role
+      - View Role
+   🏷️  secret key: 4 permissions
+      - Create Secret Key
+      - Delete Secret Key
+      - Edit Secret Key
+      - View Secret Key
+   🏷️  setting: 2 permissions
+      - Edit Application & Company Setting
+      - View Setting
+   🏷️  ticketing: 5 permissions
+      - Create Ticket
+      - Delete Ticket
+      - Detail Ticket
+      - Edit Ticket
+      - View Ticketing Report
+   🏷️  unit-management: 4 permissions
+      - Create Unit Management
+      - Delete Unit Management
+      - Edit Unit Management
+      - View Unit Management
+   🏷️  user: 4 permissions
+      - Create User
+      - Delete User
+      - Edit User
+      - View User
+🔢 Total Permissions: 67
+📅 Analysis Time: 2025-09-14T15:24:30.588Z
+════════════════════════════════════════════════════════════
+
+🔐 Permission Analysis - Admin Login
+════════════════════════════════════════════════════════════
+👤 User: admin (Administrator)
+📧 Email: admin@localhost.com
+🌐 Global Role: Administrator (70 permissions)
+📋 Global Permissions:
+   1. Create Category Management (category-management)
+   2. Delete Category Management (category-management)
+   3. Edit Category Management (category-management)
+   4. View Category Management (category-management)
+   5. Create CCTV (cctv-management)
+   6. Delete CCTV (cctv-management)
+   7. Edit CCTV (cctv-management)
+   8. View CCTV Management (cctv-management)
+   9. Control CCTV (cctv-monitoring)
+   10. Detail CCTV (cctv-monitoring)
+   11. View CCTV Monitoring (cctv-monitoring)
+   12. View All Data Dashboard (dashboard)
+   13. Edit Customize Chart (dashboard-monitoring)
+   14. View Dashboard Monitoring (dashboard-monitoring)
+   15. Create Field (field)
+   16. Delete Field (field)
+   17. Edit Field (field)
+   18. View Field (field)
+   19. View log (log)
+   20. Create Actuator (project-actuator)
+   21. Delete Actuator (project-actuator)
+   22. Edit Actuator (project-actuator)
+   23. View Actuator (project-actuator)
+   24. View All Actuator (project-actuator)
+   25. Create Group (project-group)
+   26. Delete Group (project-group)
+   27. Edit Group (project-group)
+   28. View All Group (project-group)
+   29. View Group (project-group)
+   30. Create Node (project-node)
+   31. Delete Node (project-node)
+   32. Edit Node (project-node)
+   33. View All Node (project-node)
+   34. View Node (project-node)
+   35. Create Project (project-project)
+   36. Delete Project (project-project)
+   37. Edit Project (project-project)
+   38. View All Project (project-project)
+   39. View Project (project-project)
+   40. Create Sensor (project-sensor)
+   41. Delete Sensor (project-sensor)
+   42. Edit Sensor (project-sensor)
+   43. View All Sensor (project-sensor)
+   44. View Sensor (project-sensor)
+   45. Create Report Settings (report-management)
+   46. Delete Report Settings (report-management)
+   47. Edit Report Settings (report-management)
+   48. View & Download File (report-management)
+   49. View Report Management (report-management)
+   50. Edit Role (role)
+   51. View Role (role)
+   52. Create Secret Key (secret key)
+   53. Delete Secret Key (secret key)
+   54. Edit Secret Key (secret key)
+   55. View All Secret Key (secret key)
+   56. View Secret Key (secret key)
+   57. Edit Application & Company Setting (setting)
+   58. Create Ticket (ticketing)
+   59. Delete Ticket (ticketing)
+   60. Detail Ticket (ticketing)
+   61. Edit Ticket (ticketing)
+   62. View Ticketing Report (ticketing)
+   63. Create Unit Management (unit-management)
+   64. Delete Unit Management (unit-management)
+   65. Edit Unit Management (unit-management)
+   66. View Unit Management (unit-management)
+   67. Create User (user)
+   68. Delete User (user)
+   69. Edit User (user)
+   70. View User (user)
+🔢 Total Permissions: 70
+📅 Analysis Time: 2025-09-14T15:24:31.794Z
+════════════════════════════════════════════════════════════
+
+⚖️  Permission Comparison - Client vs Admin
+════════════════════════════════════════════════════════════
+👤 synapsis (Customer):
+   Global: 1 | Project: 66 | Total: 67
+👤 admin (Administrator):
+   Global: 70 | Project: 0 | Total: 70
+📊 Difference: 3 permissions
+🏆 Higher Access: admin
+════════════════════════════════════════════════════════════
