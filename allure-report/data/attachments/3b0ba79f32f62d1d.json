@@ -1,9 +1,0 @@
-{
-  "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.payloa...",
-  "response": {
-    "code": 200,
-    "status": true,
-    "message": "success",
-    "data": null
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "token": ".....",
-  "response": {
-    "code": 200,
-    "status": true,
-    "message": "success",
-    "data": null
-  }
-}

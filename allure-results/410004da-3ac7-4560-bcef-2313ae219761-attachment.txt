@@ -1,6 +1,0 @@
-🧪 Testing empty username validation
-✅ Empty username validation test passed
-🧪 Testing empty password validation
-✅ Empty password validation test passed
-🧪 Testing both empty fields validation
-✅ Empty credentials validation test passed

@@ -1,6 +1,0 @@
-{
-  "code": 400,
-  "status": false,
-  "message": "Key: 'LoginRequest.Username' Error:Field validation for 'Username' failed on the 'required' tag",
-  "data": "Key: 'LoginRequest.Username' Error:Field validation for 'Username' failed on the 'required' tag"
-}

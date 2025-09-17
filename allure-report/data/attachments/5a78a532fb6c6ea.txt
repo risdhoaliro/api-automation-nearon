@@ -1,4 +1,0 @@
-✅ Token obtained for double logout test
-✅ First logout successful
-⚠️ Note: Double logout succeeded (API allows multiple logout)
-✅ Double logout test completed

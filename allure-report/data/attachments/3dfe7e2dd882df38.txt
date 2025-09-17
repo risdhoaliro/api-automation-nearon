@@ -1,1 +1,0 @@
-🚀 API Interceptor enabled for Logout API tests

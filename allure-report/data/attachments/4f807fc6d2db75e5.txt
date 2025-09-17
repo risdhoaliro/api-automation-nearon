@@ -1,2 +1,0 @@
-🚀 API Interceptor enabled for Logout API tests
-✅ Admin login successful, token obtained
