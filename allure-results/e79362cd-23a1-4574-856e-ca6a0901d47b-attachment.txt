@@ -1,0 +1,8 @@
+✅ Client API automation user login successful, Company ID: ajbdjyzk1w
+Update Client System Settings Response (Empty Email): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'email' must be filled",
+  "data": "Field 'email' must be filled"
+}
+✅ Empty email edit attempt completed in 119ms

@@ -1,0 +1,8 @@
+✅ Client API automation user login successful, Company ID: ajbdjyzk1w
+Update Client System Settings Response (Empty Copyright): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'copyright' must be filled",
+  "data": "Field 'copyright' must be filled"
+}
+✅ Empty copyright edit attempt completed in 100ms
