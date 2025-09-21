@@ -1,0 +1,36 @@
+{
+  "code": 201,
+  "status": true,
+  "message": "success create",
+  "data": {
+    "id": "443c5f40e5194d59908ff58bb43d2da4",
+    "name": "Wyman Orn",
+    "username": "ramona231010",
+    "email": "adelle_murphy@hotmail.com",
+    "phone": [
+      "089769044892"
+    ],
+    "avatar": null,
+    "status": "active",
+    "created_at": "2025-09-21T11:39:15.365634Z",
+    "updated_at": "2025-09-21T11:39:15.365634Z",
+    "role": {
+      "id": "1",
+      "name": "Administrator",
+      "description": "",
+      "total_users": 0,
+      "total_permissions": 0
+    },
+    "project_role": null,
+    "firmware_user": "lxgl9jfz0n",
+    "firmware_password": "dVQqaxpqcG",
+    "projects": [],
+    "telegram": [
+      "WEYCZBez2W"
+    ],
+    "telegram_chat_ids": null,
+    "notification_enabled": false,
+    "license": null,
+    "company_id": null
+  }
+}

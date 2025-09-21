@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": {
+    "active_user": 37,
+    "inactive_user": 0,
+    "total_user": 37
+  }
+}

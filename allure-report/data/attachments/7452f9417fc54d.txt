@@ -1,0 +1,14 @@
+🚀 API Interceptor enabled for User Management API - Get Summary Users tests
+✅ Admin API automation user login successful
+Get Users Summary Response: {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": {
+    "active_user": 169,
+    "inactive_user": 2,
+    "total_user": 171
+  }
+}
+✅ Users summary retrieved successfully in 149ms
+📊 Summary: 169 active, 2 inactive, 171 total users

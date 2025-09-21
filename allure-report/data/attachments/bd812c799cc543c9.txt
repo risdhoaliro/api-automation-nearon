@@ -1,0 +1,51 @@
+🚀 API Interceptor enabled for User Management API - Reset Forgot Password tests
+✅ Admin API automation user login successful
+Pre-reset Create User Response: {
+  "code": 201,
+  "status": true,
+  "message": "success create",
+  "data": {
+    "id": "b399d06b91ef4a6695109ca48b0ffc20",
+    "name": "Mabel Heathcote",
+    "username": "gregorio293088",
+    "email": "neoma_terry@hotmail.com",
+    "phone": [
+      "084104759760"
+    ],
+    "avatar": null,
+    "status": "active",
+    "created_at": "2025-09-21T11:39:21.032759Z",
+    "updated_at": "2025-09-21T11:39:21.032759Z",
+    "role": {
+      "id": "1",
+      "name": "Administrator",
+      "description": "",
+      "total_users": 0,
+      "total_permissions": 0
+    },
+    "project_role": null,
+    "firmware_user": "uhpjvzjodu",
+    "firmware_password": "rGJ5dwURmk",
+    "projects": [],
+    "telegram": [
+      "691riife9c"
+    ],
+    "telegram_chat_ids": null,
+    "notification_enabled": false,
+    "license": null,
+    "company_id": null
+  }
+}
+✅ New user created for password reset testing: ID b399d06b91ef4a6695109ca48b0ffc20
+Reset Forgot Password Response: {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": {
+    "id": "b399d06b91ef4a6695109ca48b0ffc20",
+    "username": "gregorio293088",
+    "password": "n01IcO9p7W"
+  }
+}
+✅ Password reset successfully for user b399d06b91ef4a6695109ca48b0ffc20 in 195ms
+🔑 New password generated: n01IcO9p7W

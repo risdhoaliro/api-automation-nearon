@@ -1,0 +1,405 @@
+🚀 API Interceptor enabled for User Management API - Get Users by Company ID tests
+✅ Client API automation user login successful
+🏢 Company ID: ajbdjyzk1w
+Get Users by Company ID Response: {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "page": 1,
+  "count": 10,
+  "total": 62,
+  "data": [
+    {
+      "id": "e2b39a4d10614065b72d4a45f8ec3264",
+      "name": "Shane Schuster",
+      "username": "kaitlin766339",
+      "email": "cleora_conn70@yahoo.com",
+      "phone": [
+        "087750836050"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:39:24.571546Z",
+      "updated_at": "2025-09-21T11:39:24.571546Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "5b2z5p9xw1",
+      "firmware_password": "dz0F0LlI3K",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "A04Wfzuvsa"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "7bf492fb9bbf44b4af2ff2fa00e0ae0e",
+      "name": "Toy Larson",
+      "username": "lyda093193",
+      "email": "rosetta14@hotmail.com",
+      "phone": [
+        "081377410723"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:39:23.659667Z",
+      "updated_at": "2025-09-21T11:39:23.659668Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "7hqippunmu",
+      "firmware_password": "YKKk9zL9J0",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "OcdJuZhnAH"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "2131e48ea2144feda754c6835b59a171",
+      "name": "Willa Sporer",
+      "username": "sigmund870236",
+      "email": "leanna.pollich@gmail.com",
+      "phone": [
+        "087585811986"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:38:07.183137Z",
+      "updated_at": "2025-09-21T11:38:07.391006Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "zincgyg0br",
+      "firmware_password": "eQDWQVZYHo",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "N2dgfhPqWr"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "147747b6f4094b058e7f92ef04d0aa86",
+      "name": "Shanelle Brekke",
+      "username": "georgianna144936",
+      "email": "lelia2@hotmail.com",
+      "phone": [
+        "088166559979"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:38:06.31151Z",
+      "updated_at": "2025-09-21T11:38:06.31151Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "t0attyttim",
+      "firmware_password": "zVKn7CHsKD",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "0ie0f3e2zL"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "e39eb7f650c64dea81b5f75d3c382b89",
+      "name": "Dolly Rippin",
+      "username": "velvasimonis117503",
+      "email": "julianne92@yahoo.com",
+      "phone": [
+        "088830800357"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:37:32.211036Z",
+      "updated_at": "2025-09-21T11:37:32.450101Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "vzreqopxhl",
+      "firmware_password": "jtIaqvOssg",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "U8y5zeM212"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "76717e7e785d457996d07fe34e8b8fa9",
+      "name": "Pete Stark PhD",
+      "username": "alysaherzog799563",
+      "email": "nicklaus.bartell46@yahoo.com",
+      "phone": [
+        "089425822586"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:37:31.406484Z",
+      "updated_at": "2025-09-21T11:37:31.406484Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "eimrlsu0ea",
+      "firmware_password": "MUAH0QWWqg",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "l5RJZttwIZ"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "3f52f18086354bc69b09912b988d719b",
+      "name": "Ibrahim Lindgren",
+      "username": "flo382701",
+      "email": "lauryn.lakin20@yahoo.com",
+      "phone": [
+        "080669266699"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:34:11.322052Z",
+      "updated_at": "2025-09-21T11:34:11.541858Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "ghlscsgu4a",
+      "firmware_password": "ZG8XyhY5Gg",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "qvHZw2X7EH"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "b235b50b10924f3eb89d2e786248f9a7",
+      "name": "Sonia Gusikowski",
+      "username": "suzanne548190",
+      "email": "ezekiel.breitenberg48@hotmail.com",
+      "phone": [
+        "087353458234"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:34:10.557507Z",
+      "updated_at": "2025-09-21T11:34:10.557507Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "jo4qvywta4",
+      "firmware_password": "uYheTyebE5",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "EhszauWAea"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "501e62ea50f94f88a9c896602f7f49c5",
+      "name": "Jane Zboncak",
+      "username": "austyn786495",
+      "email": "delfina.gutmann-kreiger@gmail.com",
+      "phone": [
+        "080906742707"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:33:35.891152Z",
+      "updated_at": "2025-09-21T11:33:36.158152Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "x2cu4xluxs",
+      "firmware_password": "zMiaNFFY7d",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "QmO5G3zOis"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "31a04f2de6af486d953b54976943968c",
+      "name": "Frances Becker",
+      "username": "mylene_becker4041",
+      "email": "davonte16@yahoo.com",
+      "phone": [
+        "089245539551"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:33:35.013645Z",
+      "updated_at": "2025-09-21T11:33:35.013645Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "f0bdb68c7aa5440388a96c680e023ec1",
+          "name": "Administrator",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "esdpjr0wmv",
+      "firmware_password": "vshmB9vavc",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "XKwXfRNhN5"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    }
+  ]
+}
+👤 User 1: Shane Schuster (kaitlin766339) - Status: active - Company ID: ajbdjyzk1w
+👤 User 2: Toy Larson (lyda093193) - Status: active - Company ID: ajbdjyzk1w
+👤 User 3: Willa Sporer (sigmund870236) - Status: active - Company ID: ajbdjyzk1w
+👤 User 4: Shanelle Brekke (georgianna144936) - Status: active - Company ID: ajbdjyzk1w
+👤 User 5: Dolly Rippin (velvasimonis117503) - Status: active - Company ID: ajbdjyzk1w
+👤 User 6: Pete Stark PhD (alysaherzog799563) - Status: active - Company ID: ajbdjyzk1w
+👤 User 7: Ibrahim Lindgren (flo382701) - Status: active - Company ID: ajbdjyzk1w
+👤 User 8: Sonia Gusikowski (suzanne548190) - Status: active - Company ID: ajbdjyzk1w
+👤 User 9: Jane Zboncak (austyn786495) - Status: active - Company ID: ajbdjyzk1w
+👤 User 10: Frances Becker (mylene_becker4041) - Status: active - Company ID: ajbdjyzk1w
+✅ Users by company ID retrieved successfully in 184ms
+📊 Pagination: Page 1, Count: 10, Total: 62

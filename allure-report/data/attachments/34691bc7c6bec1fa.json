@@ -1,0 +1,40 @@
+{
+  "code": 201,
+  "status": true,
+  "message": "success create",
+  "data": {
+    "id": "7bf492fb9bbf44b4af2ff2fa00e0ae0e",
+    "name": "Toy Larson",
+    "username": "lyda093193",
+    "email": "rosetta14@hotmail.com",
+    "phone": [
+      "081377410723"
+    ],
+    "avatar": null,
+    "status": "active",
+    "created_at": "2025-09-21T11:39:23.659667Z",
+    "updated_at": "2025-09-21T11:39:23.659668Z",
+    "role": null,
+    "project_role": [
+      {
+        "id": "f0bdb68c7aa5440388a96c680e023ec1",
+        "name": "Administrator",
+        "description": "",
+        "total_users": 0,
+        "total_permissions": 0
+      }
+    ],
+    "firmware_user": "7hqippunmu",
+    "firmware_password": "YKKk9zL9J0",
+    "projects": [
+      "QA100"
+    ],
+    "telegram": [
+      "OcdJuZhnAH"
+    ],
+    "telegram_chat_ids": null,
+    "notification_enabled": false,
+    "license": null,
+    "company_id": "ajbdjyzk1w"
+  }
+}
