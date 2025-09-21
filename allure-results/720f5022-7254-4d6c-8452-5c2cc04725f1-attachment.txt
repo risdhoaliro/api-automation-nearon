@@ -1,8 +1,0 @@
-✅ Client API automation user login successful, Company ID: ajbdjyzk1w
-Update Client System Settings Response (Empty Title): {
-  "code": 400,
-  "status": false,
-  "message": "Field 'title' must be filled",
-  "data": "Field 'title' must be filled"
-}
-✅ Empty title edit attempt completed in 151ms

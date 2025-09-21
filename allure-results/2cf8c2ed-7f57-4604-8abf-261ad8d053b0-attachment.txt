@@ -1,8 +1,0 @@
-✅ Admin API automation user login successful
-Update System Settings Response (Empty Address): {
-  "code": 400,
-  "status": false,
-  "message": "Field 'address' must be filled",
-  "data": "Field 'address' must be filled"
-}
-✅ Empty address edit attempt completed in 283ms

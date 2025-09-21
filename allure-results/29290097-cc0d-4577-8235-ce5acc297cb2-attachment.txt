@@ -1,8 +1,0 @@
-✅ Admin API automation user login successful
-Update System Settings Response (Empty Title): {
-  "code": 400,
-  "status": false,
-  "message": "Field 'title' must be filled",
-  "data": "Field 'title' must be filled"
-}
-✅ Empty title edit attempt completed in 199ms

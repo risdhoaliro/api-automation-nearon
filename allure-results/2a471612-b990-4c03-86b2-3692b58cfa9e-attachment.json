@@ -1,6 +1,0 @@
-{
-  "code": 400,
-  "status": false,
-  "message": "Field 'address' must be filled",
-  "data": "Field 'address' must be filled"
-}

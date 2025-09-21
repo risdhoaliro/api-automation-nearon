@@ -1,8 +1,0 @@
-✅ Client API automation user login successful, Company ID: ajbdjyzk1w
-Update Client System Settings Response (Empty Address): {
-  "code": 400,
-  "status": false,
-  "message": "Field 'address' must be filled",
-  "data": "Field 'address' must be filled"
-}
-✅ Empty address edit attempt completed in 119ms

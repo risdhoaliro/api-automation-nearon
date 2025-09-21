@@ -1,8 +1,0 @@
-✅ Client API automation user login successful, Company ID: ajbdjyzk1w
-Update Client System Settings Response (Empty Company Name): {
-  "code": 400,
-  "status": false,
-  "message": "Field 'company_name' must be filled",
-  "data": "Field 'company_name' must be filled"
-}
-✅ Empty company name edit attempt completed in 90ms

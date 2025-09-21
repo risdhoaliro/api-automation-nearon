@@ -1,8 +1,0 @@
-✅ Client API automation user login successful, Company ID: ajbdjyzk1w
-Update Client System Settings Response (Empty Phone): {
-  "code": 400,
-  "status": false,
-  "message": "Field 'phone' must be filled",
-  "data": "Field 'phone' must be filled"
-}
-✅ Empty phone edit attempt completed in 145ms
