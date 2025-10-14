@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "Firmware update campaign found",
+  "data": {
+    "id": "3239fad4-0642-4989-9fee-5605f0c97d6a",
+    "name": "campaign_qa_uosk48oB",
+    "description": "Complectus delectatio utrum dens terminatio officia curiositas taedium taedium.",
+    "minimum_battery_level": "50%",
+    "campaign_start_date": "2025-10-15T07:25:06Z",
+    "campaign_end_date": "2025-10-21T07:25:06Z",
+    "repeat_days": [
+      "monday",
+      "saturday",
+      "tuesday",
+      "thursday",
+      "sunday"
+    ],
+    "firmware": {
+      "id": "7fdd6c9f-1511-451c-999e-94334f1c8947",
+      "hardware_device_id": "f3e64722-5665-40fd-9f4a-79cec4506b15",
+      "hardware_device_name": "samsung",
+      "hardware_device_model_id": "9cc782d3-1468-415a-b8c3-91a97c07e73e",
+      "hardware_device_model_name": "s10",
+      "project_id": "NEARN",
+      "project_name": "Synapsis Exhibition",
+      "company_id": "lnxnbrqafr",
+      "company_name": "Dev Nearon : Development",
+      "company_logo": "https://dev-assets.synapsis.id/nearon-dev/hardware-device/20250831071443450.png",
+      "version": "1.0.0",
+      "status": "Stable",
+      "description": "<p>testing</p>",
+      "firmware_url": "device-model-firmware/20251002025127072.bin",
+      "created_at": "2025-10-02T02:51:27.195948Z",
+      "updated_at": "2025-10-02T02:51:27.195948Z"
+    },
+    "status": "scheduled",
+    "created_at": "2025-10-14T07:25:06.322179Z",
+    "updated_at": "2025-10-14T07:25:06.322179Z"
+  }
+}

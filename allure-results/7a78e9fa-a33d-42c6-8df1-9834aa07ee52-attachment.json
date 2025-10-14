@@ -1,0 +1,8 @@
+{
+  "code": 201,
+  "status": true,
+  "message": "Firmware update campaign created",
+  "data": {
+    "id": "b39d163f-1156-455c-8720-afedabf92342"
+  }
+}

@@ -1,0 +1,17 @@
+Client API automation user login successful
+Pre-edit Create Campaign Response: {
+  "code": 201,
+  "status": true,
+  "message": "Firmware update campaign created",
+  "data": {
+    "id": "91c0dcfc-67f3-44f2-aa5f-0a06397d864a"
+  }
+}
+Campaign created for editing with ID: 91c0dcfc-67f3-44f2-aa5f-0a06397d864a
+Update Battery Level Response: {
+  "code": 200,
+  "status": true,
+  "message": "Firmware update campaign updated",
+  "data": null
+}
+Campaign battery level updated to 80% in 99ms

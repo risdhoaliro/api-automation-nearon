@@ -1,0 +1,35 @@
+API Interceptor enabled for Campaign API - Edit Campaign tests
+Client API automation user login successful
+Pre-edit Create Campaign Response: {
+  "code": 201,
+  "status": true,
+  "message": "Firmware update campaign created",
+  "data": {
+    "id": "655e4e9c-a699-4601-b3c1-71b0ab111b76"
+  }
+}
+Campaign created for editing with ID: 655e4e9c-a699-4601-b3c1-71b0ab111b76
+Edit Campaign Request Body: {
+  "name": "Updated_Campaign_1760426704134",
+  "description": "This campaign has been updated with new configurations",
+  "minimum_battery_level": "50%",
+  "campaign_start_date": 1760513104,
+  "campaign_end_date": 1761031504,
+  "repeat_days": [
+    "monday",
+    "wednesday",
+    "friday"
+  ],
+  "firmware_id": "7fdd6c9f-1511-451c-999e-94334f1c8947"
+}
+Edit Campaign Response: {
+  "code": 200,
+  "status": true,
+  "message": "Firmware update campaign updated",
+  "data": null
+}
+Campaign 655e4e9c-a699-4601-b3c1-71b0ab111b76 edited successfully in 124ms
+Updated Campaign Name: Updated_Campaign_1760426704134
+Updated Description: This campaign has been updated with new configurations
+Updated Battery Level: 50%
+Updated Repeat Days: monday, wednesday, friday

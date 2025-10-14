@@ -1,0 +1,32 @@
+API Interceptor enabled for Campaign API tests
+Client API automation user login successful
+Campaign Request Body: {
+  "name": "campaign_qa_5N3NFIH6",
+  "description": "Similique creator crepusculum titulus quasi aedificium enim demo umbra astrum.",
+  "minimum_battery_level": "50%",
+  "campaign_start_date": 1760513101,
+  "campaign_end_date": 1761031501,
+  "repeat_days": [
+    "thursday",
+    "wednesday",
+    "tuesday",
+    "sunday",
+    "friday"
+  ],
+  "firmware_id": "7fdd6c9f-1511-451c-999e-94334f1c8947"
+}
+Create Campaign Response: {
+  "code": 201,
+  "status": true,
+  "message": "Firmware update campaign created",
+  "data": {
+    "id": "b39d163f-1156-455c-8720-afedabf92342"
+  }
+}
+Campaign created successfully in 111ms
+Campaign Name: campaign_qa_5N3NFIH6
+Campaign Description: Similique creator crepusculum titulus quasi aedificium enim demo umbra astrum.
+Minimum Battery Level: 50%
+Start Date: 10/15/2025, 2:25:01 PM
+End Date: 10/21/2025, 2:25:01 PM
+Repeat Days: thursday, wednesday, tuesday, sunday, friday

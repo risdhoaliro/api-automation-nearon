@@ -1,0 +1,16 @@
+Client API automation user login successful
+Get All Campaigns Pagination Info:
+{
+  "code": 200,
+  "status": true,
+  "message": "Firmware update campaigns found",
+  "page": 1,
+  "count": 5,
+  "total": 106
+}
+Campaign data structure verified
+Sample Campaign: campaign_qa_uosk48oB
+Battery Level: 50%
+Status: scheduled
+Repeat Days: monday, saturday, tuesday, thursday, sunday
+Campaign data structure validated in 120ms

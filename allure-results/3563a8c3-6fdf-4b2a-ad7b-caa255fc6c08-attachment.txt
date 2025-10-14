@@ -1,0 +1,18 @@
+Client API automation user login successful
+Pre-edit Create Campaign Response: {
+  "code": 201,
+  "status": true,
+  "message": "Firmware update campaign created",
+  "data": {
+    "id": "58f3ac02-b157-419f-9bef-af517de67b8e"
+  }
+}
+Campaign created for editing with ID: 58f3ac02-b157-419f-9bef-af517de67b8e
+Partial Update Response: {
+  "code": 200,
+  "status": true,
+  "message": "Firmware update campaign updated",
+  "data": null
+}
+Campaign partially updated in 107ms
+New Name: Renamed_Campaign_1760426705633

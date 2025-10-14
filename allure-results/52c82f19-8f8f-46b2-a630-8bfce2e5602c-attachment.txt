@@ -1,0 +1,15 @@
+Client API automation user login successful
+Get All Campaigns Page 2 Pagination Info:
+{
+  "code": 200,
+  "status": true,
+  "message": "Firmware update campaigns found",
+  "page": 2,
+  "count": 10,
+  "total": 106
+}
+Page 2 has 10 campaigns
+Page: 2
+Count: 10 campaigns
+Total: 106 campaigns
+Page 2 retrieved successfully in 94ms

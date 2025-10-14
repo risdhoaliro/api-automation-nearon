@@ -1,0 +1,19 @@
+Client API automation user login successful
+Pre-edit Create Campaign Response: {
+  "code": 201,
+  "status": true,
+  "message": "Firmware update campaign created",
+  "data": {
+    "id": "c4def75b-a84a-426d-a84b-a6b1513b8b86"
+  }
+}
+Campaign created for editing with ID: c4def75b-a84a-426d-a84b-a6b1513b8b86
+Update Schedule Response: {
+  "code": 200,
+  "status": true,
+  "message": "Firmware update campaign updated",
+  "data": null
+}
+Campaign schedule updated in 111ms
+New Period: 1/1/2026 - 6/30/2026
+New Repeat Pattern: tuesday, thursday, saturday
