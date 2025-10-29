@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "Companies found successfully",
+  "page": 1,
+  "count": 1,
+  "total": 1,
+  "data": [
+    {
+      "company_id": "zvgzuntbef",
+      "license_status": null,
+      "license_status_name": null,
+      "package_name": null,
+      "package_type": null,
+      "activation_date": null,
+      "expired_date": null,
+      "company_name": "API Automation Organization 1761770270986",
+      "company_address": "QA API Automation Client Management",
+      "company_logo": "https://dev-assets.synapsis.id/nearon-dev/hardware-device/20251029203750976.png",
+      "owner_name": "Owner QA 1761770270986",
+      "owner_email": "ownerqa1761770270986@mail.com",
+      "owner_phone": "08459969017",
+      "license_key": null,
+      "license_periode": null,
+      "alert_notification": null
+    }
+  ]
+}

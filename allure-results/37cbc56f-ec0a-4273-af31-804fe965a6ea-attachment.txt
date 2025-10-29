@@ -1,0 +1,19 @@
+Create Company Request (No Auth): {
+  "company_name": "API Automation Organization 1761770268372",
+  "company_logo": "https://dev-assets.synapsis.id/nearon-dev/hardware-device/20251029203747832.png",
+  "company_email": "apicompany1761770268372@mail.com",
+  "name": "Owner QA 1761770268372",
+  "username": "ownerqa1761770268372",
+  "email": "ownerqa1761770268372@mail.com",
+  "phone_number": "0871210508",
+  "telegram_username": "ownerqa1761770268372",
+  "password": "Password123!",
+  "address": "QA API Automation Client Management"
+}
+Create Company Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+Unauthorized create attempt completed in 195ms

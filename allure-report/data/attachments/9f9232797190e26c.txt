@@ -1,0 +1,7 @@
+Search Company Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+Unauthorized search attempt completed in 78ms

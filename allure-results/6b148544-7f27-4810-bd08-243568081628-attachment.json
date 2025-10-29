@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": {
+    "id": "y9pzvmdvw4",
+    "name": "API Automation Organization 1761770268042",
+    "email": "apicompany1761770268042@mail.com",
+    "phone": "",
+    "address": "QA API Automation Client Management",
+    "pic_name": "Owner QA 1761770268042",
+    "pic_email": "ownerqa1761770268042@mail.com",
+    "pic_phone": "08671655970",
+    "created_at": "2025-10-29T20:37:48.406100501Z",
+    "updated_at": "2025-10-29T20:37:48.406100576Z"
+  }
+}

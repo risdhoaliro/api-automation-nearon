@@ -1,0 +1,32 @@
+Admin API automation user login successful
+Create Company Request (Empty Email): {
+  "company_name": "API Automation Organization 1761770269810",
+  "company_logo": "https://dev-assets.synapsis.id/nearon-dev/hardware-device/20251029203747832.png",
+  "company_email": "",
+  "name": "Owner QA 1761770269810",
+  "username": "ownerqa1761770269810",
+  "email": "ownerqa1761770269810@mail.com",
+  "phone_number": "08992071035",
+  "telegram_username": "ownerqa1761770269810",
+  "password": "Password123!",
+  "address": "QA API Automation Client Management"
+}
+Create Company Response (Empty Email): {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": {
+    "id": "tav2lgbtij",
+    "name": "API Automation Organization 1761770269810",
+    "email": "",
+    "phone": "",
+    "address": "QA API Automation Client Management",
+    "pic_name": "Owner QA 1761770269810",
+    "pic_email": "ownerqa1761770269810@mail.com",
+    "pic_phone": "08992071035",
+    "created_at": "2025-10-29T20:37:50.176481358Z",
+    "updated_at": "2025-10-29T20:37:50.176481435Z"
+  }
+}
+Company created with empty email in 317ms
+Note: API allows empty company email

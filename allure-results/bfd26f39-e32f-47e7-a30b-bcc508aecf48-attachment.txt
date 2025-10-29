@@ -1,0 +1,11 @@
+Admin API automation user login successful
+Search Company Response (Non-Existent): {
+  "code": 200,
+  "status": true,
+  "message": "Companies found successfully",
+  "page": 1,
+  "count": 0,
+  "total": 0,
+  "data": []
+}
+Company search with no results completed in 78ms

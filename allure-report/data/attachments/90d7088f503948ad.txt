@@ -1,0 +1,32 @@
+Admin API automation user login successful
+Create Company Request (Empty Logo): {
+  "company_name": "API Automation Organization 1761770269222",
+  "company_logo": "",
+  "company_email": "apicompany1761770269222@mail.com",
+  "name": "Owner QA 1761770269222",
+  "username": "ownerqa1761770269222",
+  "email": "ownerqa1761770269222@mail.com",
+  "phone_number": "0814202769",
+  "telegram_username": "ownerqa1761770269222",
+  "password": "Password123!",
+  "address": "QA API Automation Client Management"
+}
+Create Company Response (Empty Logo): {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": {
+    "id": "xcf8y73z39",
+    "name": "API Automation Organization 1761770269222",
+    "email": "apicompany1761770269222@mail.com",
+    "phone": "",
+    "address": "QA API Automation Client Management",
+    "pic_name": "Owner QA 1761770269222",
+    "pic_email": "ownerqa1761770269222@mail.com",
+    "pic_phone": "0814202769",
+    "created_at": "2025-10-29T20:37:49.609762932Z",
+    "updated_at": "2025-10-29T20:37:49.609762982Z"
+  }
+}
+Company created with empty logo in 334ms
+Note: API allows empty company logo
