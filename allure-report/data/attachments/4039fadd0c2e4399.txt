@@ -1,0 +1,13 @@
+Admin API automation user login successful
+Change Password Request (Wrong Old Password): {
+  "old_password": "wrongpassword123",
+  "password": "password123",
+  "password_confirm": "password123"
+}
+Change Password Response (Wrong Old Password): {
+  "code": 400,
+  "status": false,
+  "message": "The current password you entered is incorrect.",
+  "data": "The current password you entered is incorrect."
+}
+Wrong old password validation completed in 326ms

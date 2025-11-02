@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "New password and confirmation password do not match.",
+  "data": "New password and confirmation password do not match."
+}

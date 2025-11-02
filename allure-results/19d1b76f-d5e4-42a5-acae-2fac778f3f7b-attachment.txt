@@ -1,0 +1,11 @@
+Admin API automation user login successful
+File exists: true
+File path: ./src/asset/test_file.txt
+Custom Filename: invalid-avatar.txt
+Upload Response (Invalid File): {
+  "code": 400,
+  "status": false,
+  "message": "File Extenstion must One of : jpg,jpeg,png",
+  "data": "File Extenstion must One of : jpg,jpeg,png"
+}
+Invalid file upload attempt completed in 280ms

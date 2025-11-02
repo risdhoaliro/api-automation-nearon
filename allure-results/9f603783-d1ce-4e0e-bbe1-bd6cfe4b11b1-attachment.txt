@@ -1,0 +1,13 @@
+API Interceptor enabled for Profile API tests
+Admin API automation user login successful
+File exists: true
+File path: ./src/asset/nearon_logo.png
+Filename: nearon_logo.png
+Upload Response: {
+  "code": 201,
+  "status": true,
+  "message": "File uploaded",
+  "data": "https://dev-assets.synapsis.id/nearon-dev/user/5fc8bfaa6baf4353a9c10523760b5db7-20251102191519627.png"
+}
+PNG avatar upload completed in 501ms
+Avatar URL: https://dev-assets.synapsis.id/nearon-dev/user/5fc8bfaa6baf4353a9c10523760b5db7-20251102191519627.png

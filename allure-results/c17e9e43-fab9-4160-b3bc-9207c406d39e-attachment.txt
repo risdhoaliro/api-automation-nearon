@@ -1,0 +1,21 @@
+Edit Profile Request (No Auth): {
+  "is_active": true,
+  "role_id": "1",
+  "name": "Alyce Gorczany QA",
+  "email": "qaadmin17621109232485653@mail.com",
+  "phone": [
+    "08455711004"
+  ],
+  "telegram": [
+    "qaadmin1762110923248"
+  ],
+  "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/5fc8bfaa6baf4353a9c10523760b5db7-20251102191522845.png",
+  "projects": []
+}
+Edit Profile Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+Unauthorized edit attempt completed in 111ms

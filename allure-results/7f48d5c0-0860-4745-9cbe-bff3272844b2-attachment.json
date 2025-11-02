@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "The current password you entered is incorrect.",
+  "data": "The current password you entered is incorrect."
+}

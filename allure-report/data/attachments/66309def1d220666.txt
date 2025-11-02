@@ -1,0 +1,13 @@
+Admin API automation user login successful
+Change Password Request (Mismatched Confirm): {
+  "old_password": "password",
+  "password": "password123",
+  "password_confirm": "password123different"
+}
+Change Password Response (Mismatched Confirm): {
+  "code": 400,
+  "status": false,
+  "message": "New password and confirmation password do not match.",
+  "data": "New password and confirmation password do not match."
+}
+Mismatched password confirmation validation completed in 180ms
