@@ -1,0 +1,13 @@
+Admin API automation user login successful
+Create Role Request (Empty Permissions): {
+  "name": "QA API Automation Role 1762352630860",
+  "description": "QA Create API Automation Role - 1762352630860",
+  "permission_ids": []
+}
+Create Role Response (Empty Permissions): {
+  "code": 400,
+  "status": false,
+  "message": "Permission ID is required",
+  "data": "Permission ID is required"
+}
+Empty permissions validation completed in 83ms

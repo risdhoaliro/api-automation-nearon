@@ -1,0 +1,83 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": [
+    {
+      "id": "7bf492fb9bbf44b4af2ff2fa00e0ae0e",
+      "name": "Toy Larson",
+      "username": "lyda093193",
+      "email": "rosetta14@hotmail.com",
+      "phone": [
+        "081377410723"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:39:23.659667Z",
+      "updated_at": "2025-11-05T14:24:01.677094Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "16ca01ff35be422f9db2490ccdcd8da1",
+          "name": "QA API Automation Client Role 1762352641287",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "7hqippunmu",
+      "firmware_password": "YKKk9zL9J0",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "OcdJuZhnAH"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    },
+    {
+      "id": "e2b39a4d10614065b72d4a45f8ec3264",
+      "name": "Shane Schuster",
+      "username": "kaitlin766339",
+      "email": "cleora_conn70@yahoo.com",
+      "phone": [
+        "087750836050"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:39:24.571546Z",
+      "updated_at": "2025-11-05T14:24:01.677094Z",
+      "role": null,
+      "project_role": [
+        {
+          "id": "16ca01ff35be422f9db2490ccdcd8da1",
+          "name": "QA API Automation Client Role 1762352641287",
+          "project_ids": [
+            "QA100"
+          ],
+          "description": "",
+          "total_users": 0,
+          "total_permissions": 0
+        }
+      ],
+      "firmware_user": "5b2z5p9xw1",
+      "firmware_password": "dz0F0LlI3K",
+      "projects": [
+        "QA100"
+      ],
+      "telegram": [
+        "A04Wfzuvsa"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": "ajbdjyzk1w"
+    }
+  ]
+}
