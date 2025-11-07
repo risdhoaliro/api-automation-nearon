@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-11-07T04:41:16.378Z",
+  "type": "RESPONSE",
+  "method": "GET",
+  "endpoint": "https://dev-nearon.synapsis.id/api/users/licenses/history",
+  "statusCode": 401,
+  "status": false,
+  "message": "unauthorized"
+}

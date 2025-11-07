@@ -1,0 +1,9 @@
+API Request: POST https://dev-nearon.synapsis.id/api/users/licenses/renew
+FAILED API Response: POST https://dev-nearon.synapsis.id/api/users/licenses/renew - 401
+Renew License Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+Unauthorized renew attempt completed in 108ms

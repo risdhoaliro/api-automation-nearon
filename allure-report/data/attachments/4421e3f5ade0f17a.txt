@@ -1,0 +1,45 @@
+Client License Management user login successful
+API Request: GET https://dev-nearon.synapsis.id/api/users/licenses/history
+SUCCESS API Response: GET https://dev-nearon.synapsis.id/api/users/licenses/history - 200
+License History Response (Custom Pagination): {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "page": 1,
+  "count": 2,
+  "total": 2,
+  "data": [
+    {
+      "id": "tzy5uwhu1l",
+      "license_key": "cc7dd7dc09d0f09db1db6abe154ca163e725b8b650e33c63f5259ea17ee13c82",
+      "subscription": "Monthly",
+      "status": "1",
+      "period": "2 Months",
+      "activated_at": "2025-10-19T12:10:49.9795Z",
+      "expired_at": "2025-11-19T00:00:00Z",
+      "package_type": "STANDARD",
+      "notifications": {
+        "whatsapp": true,
+        "email": true,
+        "telegram": true
+      }
+    },
+    {
+      "id": "y8rcix5fna",
+      "license_key": "381bd0a180ea968e39f788603ca3b0331fced93bc24c2b196758e6ad57411c5b",
+      "subscription": "Monthly",
+      "status": "2",
+      "period": "0 Months",
+      "activated_at": "2025-10-19T10:22:51.414653Z",
+      "expired_at": "2025-10-19T00:00:00Z",
+      "package_type": "STANDARD",
+      "notifications": {
+        "whatsapp": true,
+        "email": true,
+        "telegram": true
+      }
+    }
+  ]
+}
+License history with custom pagination retrieved in 98ms
+Retrieved 2 license(s) with limit 5

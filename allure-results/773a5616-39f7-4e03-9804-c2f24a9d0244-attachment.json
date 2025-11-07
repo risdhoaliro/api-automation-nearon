@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-11-07T04:41:17.475Z",
+  "type": "RESPONSE",
+  "method": "POST",
+  "endpoint": "https://dev-nearon.synapsis.id/api/users/licenses/renew",
+  "statusCode": 404,
+  "status": false,
+  "message": "License not found"
+}

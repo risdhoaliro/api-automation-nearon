@@ -1,0 +1,9 @@
+API Request: GET https://dev-nearon.synapsis.id/api/users/licenses/history
+FAILED API Response: GET https://dev-nearon.synapsis.id/api/users/licenses/history - 401
+License History Response (Invalid Token): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+Invalid token attempt completed in 88ms

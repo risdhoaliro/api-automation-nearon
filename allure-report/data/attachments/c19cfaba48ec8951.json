@@ -1,0 +1,69 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": [
+    {
+      "id": "3bfc79ea2b1844889d10c10c3b92f237",
+      "name": "Melisa Altenwerth",
+      "username": "lacey073452",
+      "email": "martin.kub35@gmail.com",
+      "phone": [
+        "082032735175"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:39:16.204368Z",
+      "updated_at": "2025-11-07T04:41:23.139234Z",
+      "role": {
+        "id": "facdba32cc66469391e7c5607dbb36a8",
+        "name": "QA API Automation Role 1762490482921",
+        "description": "",
+        "total_users": 0,
+        "total_permissions": 0
+      },
+      "project_role": null,
+      "firmware_user": "azrrecctjy",
+      "firmware_password": "SOqZWn7y30",
+      "projects": [],
+      "telegram": [
+        "RsSNmNGWuu"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": null
+    },
+    {
+      "id": "ce153ca5b88440a894c751353536f490",
+      "name": "Garnett O'Kon",
+      "username": "kevon148670",
+      "email": "mathilde.hand@hotmail.com",
+      "phone": [
+        "086828369420"
+      ],
+      "avatar": null,
+      "status": "active",
+      "created_at": "2025-09-21T11:39:18.320422Z",
+      "updated_at": "2025-11-07T04:41:23.139234Z",
+      "role": {
+        "id": "facdba32cc66469391e7c5607dbb36a8",
+        "name": "QA API Automation Role 1762490482921",
+        "description": "",
+        "total_users": 0,
+        "total_permissions": 0
+      },
+      "project_role": null,
+      "firmware_user": "zonej53ego",
+      "firmware_password": "BK4HT5Q0EE",
+      "projects": [],
+      "telegram": [
+        "i0Fa4NzMb3"
+      ],
+      "telegram_chat_ids": null,
+      "notification_enabled": false,
+      "license": null,
+      "company_id": null
+    }
+  ]
+}
