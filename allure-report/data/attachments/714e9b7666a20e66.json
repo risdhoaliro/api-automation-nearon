@@ -1,0 +1,41 @@
+{
+  "code": 201,
+  "status": true,
+  "message": "Ticket created",
+  "data": {
+    "id": "TICKET_2025_11_1762804096299159935_024",
+    "created_at": "2025-11-10T19:48:16.299147Z",
+    "updated_at": "2025-11-10T19:48:16.299147Z",
+    "title": "QA Test Ticket - fair cutover",
+    "priority": 3,
+    "device_type": "sensor",
+    "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+    "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+    "due_date": "2025-11-13T19:48:16.19Z",
+    "message": "QA Automation Testing - Arcus dolor sodalitas arca officiis quasi amo aegrotatio rem.",
+    "attachments": [],
+    "created_by": "642788a1c5cc47d6ab2e0bcd4a2adfd6",
+    "avatar": null,
+    "assignee": "",
+    "status": 1,
+    "age_minutes": 0,
+    "sensor": {
+      "id": "fb8ef9b955564f2ca14e98b29365749c",
+      "name": "Door Port 1 Extension 1"
+    },
+    "node": {
+      "id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "name": "Data Center Monitoring"
+    },
+    "group": {
+      "id": "36693b9201fc40019e34503c7ed30060",
+      "name": "Jiexpo Kemayoran"
+    },
+    "project": {
+      "id": "NEARN",
+      "name": "Synapsis Exhibition"
+    },
+    "comments": [],
+    "is_archived": false
+  }
+}

@@ -1,0 +1,12 @@
+📝 Created ticket for comment test: TICKET_2025_11_1762804120159094171_082
+Add Comment Request (Empty Message): {
+  "message": "",
+  "attachments": []
+}
+Add Comment Response (Empty Message): {
+  "code": 400,
+  "status": false,
+  "message": "Key: 'TicketCommentRequest.Message' Error:Field validation for 'Message' failed on the 'required' tag",
+  "data": "Key: 'TicketCommentRequest.Message' Error:Field validation for 'Message' failed on the 'required' tag"
+}
+✅ Empty message validation completed in 87ms

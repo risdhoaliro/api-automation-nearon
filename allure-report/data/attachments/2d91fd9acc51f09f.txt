@@ -1,0 +1,12 @@
+📝 Created ticket for comment test: TICKET_2025_11_1762804117594347704_021
+Add Faker Comment Request: {
+  "message": "Progress: Corona templum certe tego earum curo assumenda. Xiphias in vetus. Quia sublime vergo viduo speciosus uredo stultus traho derideo.",
+  "attachments": []
+}
+Add Faker Comment Response: {
+  "code": 201,
+  "status": true,
+  "message": "Comment created",
+  "data": null
+}
+✅ Faker comment added successfully in 121ms

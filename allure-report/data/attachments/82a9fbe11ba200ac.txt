@@ -1,0 +1,14 @@
+🚀 API Interceptor enabled for Archive Tickets API tests
+✅ Client Ticket Management user login successful
+✅ Created 2 tickets for archive test: TICKET_2025_11_1762804110473288127_035, TICKET_2025_11_1762804110622101054_229
+✅ Get all tickets completed in 281ms
+📊 Found 10 tickets (including our test tickets)
+Archive Tickets Response: {
+  "code": 200,
+  "status": true,
+  "message": "Tickets archived",
+  "data": null
+}
+✅ Tickets archived successfully in 94ms
+📦 Archived 2 ticket(s)
+✅ Verified tickets removed from non-archived list in 225ms

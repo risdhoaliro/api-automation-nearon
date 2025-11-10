@@ -1,0 +1,7 @@
+Get Archived Tickets Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized get archived attempt completed in 86ms

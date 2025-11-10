@@ -1,0 +1,19 @@
+Create Ticket Request (No Auth): {
+  "title": "QA Test Ticket - deficient release",
+  "priority": 3,
+  "selectedProject": "NEARN",
+  "selectedGroup": "36693b9201fc40019e34503c7ed30060",
+  "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+  "device_type": "sensor",
+  "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+  "due_date": "2025-11-13T19:48:18.598Z",
+  "message": "QA Automation Testing - Substantia asperiores comes voluptate modi ab volubilis speciosus.",
+  "attachments": []
+}
+Create Ticket Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized create attempt completed in 72ms

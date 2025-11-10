@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "Key: 'TicketRequest.Message' Error:Field validation for 'Message' failed on the 'required' tag",
+  "data": "Key: 'TicketRequest.Message' Error:Field validation for 'Message' failed on the 'required' tag"
+}
