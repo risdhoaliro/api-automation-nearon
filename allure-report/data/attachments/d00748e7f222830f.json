@@ -1,6 +1,0 @@
-{
-  "code": 400,
-  "status": false,
-  "message": "Key: 'TicketRequest.Title' Error:Field validation for 'Title' failed on the 'required' tag",
-  "data": "Key: 'TicketRequest.Title' Error:Field validation for 'Title' failed on the 'required' tag"
-}

@@ -1,6 +1,0 @@
-{
-  "code": 400,
-  "status": false,
-  "message": "Invalid device type. Available device types: cctv, sensor, actuator",
-  "data": "Invalid device type. Available device types: cctv, sensor, actuator"
-}

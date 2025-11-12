@@ -1,8 +1,0 @@
-✅ Client Ticket Management user login successful
-Archive Tickets Response (Invalid IDs): {
-  "code": 400,
-  "status": false,
-  "message": "Ticket not found",
-  "data": "Ticket not found"
-}
-✅ Invalid ticket IDs validation completed in 88ms
