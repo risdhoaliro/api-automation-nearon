@@ -1,0 +1,8 @@
+✅ Client Ticket Management user login successful
+Delete Tickets Response (Empty IDs): {
+  "code": 400,
+  "status": false,
+  "message": "Invalid request",
+  "data": "Invalid request"
+}
+✅ Empty IDs array validation completed in 139ms

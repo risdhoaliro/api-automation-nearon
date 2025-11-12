@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "Key: 'TicketRequest.NodeID' Error:Field validation for 'NodeID' failed on the 'required' tag",
+  "data": "Key: 'TicketRequest.NodeID' Error:Field validation for 'NodeID' failed on the 'required' tag"
+}

@@ -1,0 +1,21 @@
+📝 Created ticket for update test: TICKET_2025_11_1762938333918749834_635
+Update Ticket Request (Escalate Priority): {
+  "title": "⚠️ [ESCALATED] QA Test Ticket - bare flat",
+  "priority": 2,
+  "selectedProject": "NEARN",
+  "selectedGroup": "36693b9201fc40019e34503c7ed30060",
+  "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+  "device_type": "sensor",
+  "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+  "due_date": "2025-11-15T09:05:33.515Z",
+  "message": "QA Automation Testing - Concedo eveniet solium conspergo cubicularis.",
+  "attachments": [],
+  "status": 2
+}
+Update Ticket Response (Escalated): {
+  "code": 200,
+  "status": true,
+  "message": "Ticket updated",
+  "data": null
+}
+✅ Ticket priority escalated to High in 250ms

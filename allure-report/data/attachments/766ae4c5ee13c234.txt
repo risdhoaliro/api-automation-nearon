@@ -1,0 +1,4 @@
+✅ Admin user login successful
+✅ All 10 results contain keyword "QA"
+✅ Search by partial keyword completed in 141ms
+🔍 Found 10 ticket(s) matching: "QA"

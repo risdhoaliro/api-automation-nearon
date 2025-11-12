@@ -1,0 +1,5 @@
+📝 Created ticket for comment test: TICKET_2025_11_1762938358075375951_371
+✅ First comment added
+✅ Second comment added
+✅ Third comment added in 151ms
+💬 Total: 3 comments added to ticket TICKET_2025_11_1762938358075375951_371

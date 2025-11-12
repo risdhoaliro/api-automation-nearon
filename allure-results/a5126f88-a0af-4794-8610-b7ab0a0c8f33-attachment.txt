@@ -1,0 +1,6 @@
+✅ Admin user login successful
+✅ Selected random ticket: TICKET_2025_11_1762938334826563154_656
+✅ First admin reply added
+✅ Second admin reply added
+✅ Third admin reply added in 105ms
+💬 Total: 3 admin replies added to ticket TICKET_2025_11_1762938334826563154_656

@@ -1,0 +1,7 @@
+✅ Admin user login successful
+✅ Selected random ticket: TICKET_2025_11_1762938337570211203_075
+Add Reply Request: {
+  "message": "Thank you for reporting this issue. Our team is investigating.",
+  "attachments": []
+}
+✅ Reply added in 148ms

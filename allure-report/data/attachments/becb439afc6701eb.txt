@@ -1,0 +1,6 @@
+📝 Created ticket for comment test: TICKET_2025_11_1762938353306842206_341
+Add Progress Comment Request: {
+  "message": "Update: Work in progress. Expected completion in 2 hours.",
+  "attachments": []
+}
+✅ Progress comment added in 357ms

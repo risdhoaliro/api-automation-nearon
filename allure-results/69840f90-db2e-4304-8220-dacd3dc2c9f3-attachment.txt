@@ -1,0 +1,8 @@
+✅ Admin user login successful
+Complete Ticket Response (Invalid ID): {
+  "code": 400,
+  "status": false,
+  "message": "Ticket not found",
+  "data": "Ticket not found"
+}
+✅ Invalid ticket ID validation completed in 110ms

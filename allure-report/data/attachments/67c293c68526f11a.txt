@@ -1,0 +1,7 @@
+✅ Admin user login successful
+📊 Active tickets (status=1): 207
+📊 All tickets (no filter): 207
+✅ Comparison successful:
+   - Active tickets: 207
+   - All tickets: 207
+   - Difference: 0

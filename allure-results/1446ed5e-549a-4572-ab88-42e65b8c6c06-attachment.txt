@@ -1,0 +1,3 @@
+✅ Client Ticket Management user login successful
+✅ Tickets are correctly sorted by created_at ascending
+✅ Get sorted tickets completed in 122ms

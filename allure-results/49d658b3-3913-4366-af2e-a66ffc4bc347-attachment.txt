@@ -1,0 +1,3 @@
+✅ Admin user login successful
+✅ Get all tickets (no status filter) completed in 131ms
+📊 Total tickets: 10

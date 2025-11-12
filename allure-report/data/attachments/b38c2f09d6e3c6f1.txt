@@ -1,0 +1,3 @@
+✅ Admin user login successful
+✅ Get active tickets page 1 completed in 128ms
+📄 Page 1: 5 tickets (limit: 5)

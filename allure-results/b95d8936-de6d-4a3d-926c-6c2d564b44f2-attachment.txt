@@ -1,0 +1,20 @@
+✅ Client Ticket Management user login successful
+Create Ticket Request (Invalid Priority): {
+  "title": "Test Ticket",
+  "priority": 99,
+  "selectedProject": "NEARN",
+  "selectedGroup": "36693b9201fc40019e34503c7ed30060",
+  "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+  "device_type": "sensor",
+  "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+  "due_date": "2025-11-15T09:05:25.842Z",
+  "message": "Test message",
+  "attachments": []
+}
+Create Ticket Response (Invalid Priority): {
+  "code": 400,
+  "status": false,
+  "message": "Invalid priority",
+  "data": "Invalid priority"
+}
+✅ Invalid priority validation completed in 124ms

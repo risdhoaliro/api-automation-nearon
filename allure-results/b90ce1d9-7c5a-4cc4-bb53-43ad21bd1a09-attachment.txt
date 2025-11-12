@@ -1,0 +1,8 @@
+📤 Uploading file: nearon_logo.png (image/png)
+Upload Photo Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized upload attempt completed in 379ms

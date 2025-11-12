@@ -1,0 +1,9 @@
+✅ Client Ticket Management user login successful
+📤 Uploading file: test_file.txt (image/png)
+Upload Invalid File Response: {
+  "code": 400,
+  "status": false,
+  "message": "File Extenstion must One of : png,pdf,jpg,jpeg",
+  "data": "File Extenstion must One of : png,pdf,jpg,jpeg"
+}
+✅ Invalid file upload validation completed in 734ms

@@ -1,0 +1,11 @@
+✅ Admin user login successful
+✅ Selected random ticket: TICKET_2025_11_1762938326918841472_525
+📤 Uploading file: nearon_logo.png (image/png)
+✅ Photo uploaded: https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090624522.png
+Add Short Reply with Image Request: {
+  "message": "test",
+  "attachments": [
+    "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090624522.png"
+  ]
+}
+✅ Short reply with image added in 135ms

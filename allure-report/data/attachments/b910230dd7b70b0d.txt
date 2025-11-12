@@ -1,0 +1,16 @@
+✅ Admin user login successful
+✅ Selected random ticket: TICKET_2025_11_1762938356850229637_113
+Add Reply with Invalid URL Request: {
+  "message": "Reply with invalid image URL",
+  "attachments": [
+    "https://invalid-url.com/image.png"
+  ]
+}
+Add Reply with Invalid URL Response: {
+  "code": 201,
+  "status": true,
+  "message": "Comment created",
+  "data": null
+}
+⚠️ API accepted invalid URL (validation happens on display)
+✅ Invalid URL test completed in 101ms

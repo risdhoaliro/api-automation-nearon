@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "Tickets found",
+  "page": 1,
+  "count": 1,
+  "total": 1,
+  "active": 1,
+  "in_progress": 0,
+  "closed": 0,
+  "archived": 0,
+  "data": [
+    {
+      "id": "TICKET_2025_11_1762938390090549394_293",
+      "created_at": "2025-11-12T09:06:30.090525Z",
+      "updated_at": "2025-11-12T09:06:30.090526Z",
+      "title": "QA API Automation Search Test 1762938389906",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-15T09:06:29.906Z",
+      "message": "QA Automation Testing - Absens damno calculus.",
+      "attachments": [],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 0,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    }
+  ]
+}

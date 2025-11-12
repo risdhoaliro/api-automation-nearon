@@ -1,0 +1,4 @@
+✅ Admin user login successful
+✅ Search with pagination completed in 145ms
+🔍 Search: "Ticket"
+📄 Page: 1 | Count: 5 | Total: 160

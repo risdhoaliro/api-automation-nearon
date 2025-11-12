@@ -1,0 +1,15 @@
+✅ Admin user login successful
+✅ Selected random ticket: TICKET_2025_11_1762938332938890831_132
+📤 Uploading file: nearon_logo.png (image/png)
+✅ First photo uploaded: https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090622424.png
+📤 Uploading file: nearon_logo.jpg (image/jpeg)
+✅ Second photo uploaded: https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090622564.jpg
+Add Reply with Multiple Images Request: {
+  "message": "Here are the screenshots showing the issue and the solution.",
+  "attachments": [
+    "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090622424.png",
+    "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090622564.jpg"
+  ]
+}
+✅ Reply with 2 image attachments added in 105ms
+📎 Attachments: 2 file(s)

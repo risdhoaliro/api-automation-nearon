@@ -1,0 +1,28 @@
+🚀 API Interceptor enabled for Reply Chat with Image Attachment API tests (Admin POV)
+✅ Admin user login successful
+✅ Selected random ticket: TICKET_2025_11_1762938351904308607_884
+📋 Ticket title: QA Test Ticket - frail vein
+📤 Uploading file: nearon_logo.png (image/png)
+Upload Photo Response: {
+  "code": 201,
+  "status": true,
+  "message": "File uploaded",
+  "data": "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090620543.png"
+}
+✅ Photo uploaded successfully in 959ms
+📎 Photo URL: https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090620543.png
+Add Reply with Image Request: {
+  "message": "Please see the attached screenshot for reference.",
+  "attachments": [
+    "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090620543.png"
+  ]
+}
+Add Reply with Image Response: {
+  "code": 201,
+  "status": true,
+  "message": "Comment created",
+  "data": null
+}
+✅ Reply with image attachment added successfully in 165ms
+💬 Comment: "Please see the attached screenshot for reference."
+📎 Attachment: https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251112090620543.png

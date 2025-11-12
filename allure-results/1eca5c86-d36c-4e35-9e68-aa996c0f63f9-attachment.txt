@@ -1,0 +1,20 @@
+✅ Client Ticket Management user login successful
+Create Ticket Request (Invalid Device Type): {
+  "title": "Test Ticket",
+  "priority": 3,
+  "selectedProject": "NEARN",
+  "selectedGroup": "36693b9201fc40019e34503c7ed30060",
+  "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+  "device_type": "invalid_device_type",
+  "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+  "due_date": "2025-11-15T09:05:26.347Z",
+  "message": "Test message",
+  "attachments": []
+}
+Create Ticket Response (Invalid Device Type): {
+  "code": 400,
+  "status": false,
+  "message": "Invalid device type. Available device types: sensor, actuator, cctv",
+  "data": "Invalid device type. Available device types: sensor, actuator, cctv"
+}
+✅ Invalid device type validation completed in 99ms

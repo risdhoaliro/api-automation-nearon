@@ -1,0 +1,382 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "Tickets found",
+  "page": 1,
+  "count": 10,
+  "total": 207,
+  "active": 175,
+  "in_progress": 25,
+  "closed": 7,
+  "archived": 0,
+  "data": [
+    {
+      "id": "TICKET_2025_10_1760497710372659207_565",
+      "created_at": "2025-10-15T03:08:30.372648Z",
+      "updated_at": "2025-10-15T03:08:30.372649Z",
+      "title": "Actuator lampu tidak mau menyala",
+      "priority": 2,
+      "device_type": "actuator",
+      "device_id": "f13fa9859acd4cdea1be6863750b9d99",
+      "node_id": "f0760856613d4b10bce0703ec9ecedeb",
+      "due_date": "2025-10-20T17:00:00Z",
+      "message": "demo",
+      "attachments": [
+        "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251015030829621.jpg"
+      ],
+      "created_by": "Client A",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/62a784c41a3749a6be7e7c0637b5deef-20251106102140687.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 40678,
+      "sensor": {
+        "id": "f13fa9859acd4cdea1be6863750b9d99",
+        "name": "Lamp"
+      },
+      "node": {
+        "id": "f0760856613d4b10bce0703ec9ecedeb",
+        "name": "SPMAC - Halim"
+      },
+      "group": {
+        "id": "c2c416bcb62a48e5b6a9b140fe483043",
+        "name": "Indonesia"
+      },
+      "project": {
+        "id": "USABT",
+        "name": "Nearon - IoT (Halim)"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762703813540855038_410",
+      "created_at": "2025-11-09T15:56:53.540836Z",
+      "updated_at": "2025-11-10T18:17:43.785834Z",
+      "title": "Edit QA API Automation Ticket Satu",
+      "priority": 1,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-09T19:00:00Z",
+      "message": "Edit QA API Automation Testing ",
+      "attachments": [
+        "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251109155648285.png"
+      ],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 3909,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762798067369315031_875",
+      "created_at": "2025-11-10T18:07:47.3693Z",
+      "updated_at": "2025-11-10T18:07:47.3693Z",
+      "title": "QA Test Ticket - dark exterior",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-13T18:07:47.238Z",
+      "message": "QA Automation Testing - Cinis degero volva venio pax amor demum tamdiu dolorum autem.",
+      "attachments": [],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 2338,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762798075334147937_779",
+      "created_at": "2025-11-10T18:07:55.334137Z",
+      "updated_at": "2025-11-10T18:07:55.334137Z",
+      "title": "QA Test Ticket - glittering premise",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-13T18:07:55.239Z",
+      "message": "QA Automation Testing - Accommodo cicuta depereo demulceo ab tandem comminor spectaculum una curto.",
+      "attachments": [
+        "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251110180755185.png"
+      ],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 2338,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762798357158021711_515",
+      "created_at": "2025-11-10T18:12:37.158003Z",
+      "updated_at": "2025-11-10T18:12:37.158003Z",
+      "title": "QA Test Ticket - unkempt submitter",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-13T18:12:36.99Z",
+      "message": "QA Automation Testing - Tempora vomito bardus illum vomer contego supellex adfero.",
+      "attachments": [],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 2333,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762798361431373107_838",
+      "created_at": "2025-11-10T18:12:41.431356Z",
+      "updated_at": "2025-11-10T18:12:41.431356Z",
+      "title": "Test Ticket",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-13T18:12:41.321Z",
+      "message": "Test message",
+      "attachments": [],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 2333,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762801638339993359_101",
+      "created_at": "2025-11-10T19:07:18.339974Z",
+      "updated_at": "2025-11-10T19:07:18.339974Z",
+      "title": "📋 Configuration Update Required",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-15T19:07:17.762Z",
+      "message": "Device configuration needs to be updated to align with new standards.\n\nDetails: Update threshold values and reporting intervals.",
+      "attachments": [],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 2279,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762801640701202765_521",
+      "created_at": "2025-11-10T19:07:20.701193Z",
+      "updated_at": "2025-11-10T19:07:20.701193Z",
+      "title": "Test Ticket",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-13T19:07:20.472Z",
+      "message": "Test message",
+      "attachments": [],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 2279,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762801642854972910_715",
+      "created_at": "2025-11-10T19:07:22.854963Z",
+      "updated_at": "2025-11-10T19:07:22.854963Z",
+      "title": "QA Test Ticket - glittering toothpick",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-13T19:07:22.623Z",
+      "message": "QA Automation Testing - Accommodo repellat tripudio adfectus excepturi defetiscor utilis adipiscor vallum.",
+      "attachments": [
+        "https://dev-assets.synapsis.id/nearon-dev/ticket/ticket-attachments-20251110190722715.png"
+      ],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 2279,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    },
+    {
+      "id": "TICKET_2025_11_1762801643313221653_749",
+      "created_at": "2025-11-10T19:07:23.313206Z",
+      "updated_at": "2025-11-10T19:07:23.511388Z",
+      "title": "QA Test Ticket - black costume",
+      "priority": 3,
+      "device_type": "sensor",
+      "device_id": "fb8ef9b955564f2ca14e98b29365749c",
+      "node_id": "bf89fa8b55a14bc8b60d30ec18025644",
+      "due_date": "2025-11-13T19:07:23.043Z",
+      "message": "QA Automation Testing - Speciosus numquam suscipit accommodo.\n\n--- Status Changed to In Progress ---",
+      "attachments": [],
+      "created_by": "Salma",
+      "avatar": "https://dev-assets.synapsis.id/nearon-dev/user/642788a1c5cc47d6ab2e0bcd4a2adfd6-20251103204708191.jpg",
+      "assignee": "",
+      "status": 1,
+      "age_minutes": 2279,
+      "sensor": {
+        "id": "fb8ef9b955564f2ca14e98b29365749c",
+        "name": "Door Port 1 Extension 1"
+      },
+      "node": {
+        "id": "bf89fa8b55a14bc8b60d30ec18025644",
+        "name": "Data Center Monitoring"
+      },
+      "group": {
+        "id": "36693b9201fc40019e34503c7ed30060",
+        "name": "Jiexpo Kemayoran"
+      },
+      "project": {
+        "id": "NEARN",
+        "name": "Synapsis Exhibition"
+      },
+      "comments": [],
+      "is_archived": false
+    }
+  ]
+}

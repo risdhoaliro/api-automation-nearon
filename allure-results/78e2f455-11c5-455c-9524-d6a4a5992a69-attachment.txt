@@ -1,0 +1,4 @@
+✅ Admin user login successful
+✅ Search for non-existent title completed in 120ms
+🔍 Search: "NonExistentTicket1762938394241XYZ123"
+📊 Found 0 ticket(s) (expected: 0)
