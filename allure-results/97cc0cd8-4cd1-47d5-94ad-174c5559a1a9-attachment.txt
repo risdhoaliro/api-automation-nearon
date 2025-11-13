@@ -1,0 +1,13 @@
+Create Unit Request (No Auth): {
+  "name": "Unit 1763043894988",
+  "data_type": "integer",
+  "description": "Test unit description",
+  "status": true
+}
+Create Unit Response (No Auth): {
+  "status": false,
+  "code": 401,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized create attempt completed in 99ms

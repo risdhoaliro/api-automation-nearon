@@ -1,0 +1,14 @@
+{
+  "status": true,
+  "code": 201,
+  "message": "Unit created successfully",
+  "data": {
+    "id": "c94eba6844344b34985532d985be5897",
+    "name": "Voltage 659",
+    "description": "Voltage measurement unit",
+    "data_type": "float",
+    "status": true,
+    "created_at": "2025-11-13T14:24:53.923746112Z",
+    "updated_at": "2025-11-13T14:24:53.923746235Z"
+  }
+}

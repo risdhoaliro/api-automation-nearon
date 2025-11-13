@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "code": 200,
+  "message": "Units found",
+  "data": [
+    {
+      "id": "12ca6fa39c4f49b587c17eaeff2a85b9",
+      "name": "QA API Search Test 1763043911069",
+      "description": "Test unit description",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:25:11.167974Z",
+      "updated_at": "2025-11-13T14:25:11.167974Z"
+    },
+    {
+      "id": "449bdfc46f034766b4e62ded981e398e",
+      "name": "Unit 1763043907097",
+      "description": "Test unit description",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:25:06.742371Z",
+      "updated_at": "2025-11-13T14:25:06.742371Z"
+    },
+    {
+      "id": "1212b65ab940445c87ce2c432797a06b",
+      "name": "Unit 1763043905915",
+      "description": "Test unit description",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:25:05.250552Z",
+      "updated_at": "2025-11-13T14:25:05.250552Z"
+    },
+    {
+      "id": "06447da6486b4bdeb56178c90fe81a66",
+      "name": "Unit 1763043904167",
+      "description": "Test unit description",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:25:03.784434Z",
+      "updated_at": "2025-11-13T14:25:03.89755Z"
+    },
+    {
+      "id": "bbec304ffc184dcf802b9b2314c5cbdf",
+      "name": "Unit 1763043902499",
+      "description": "Updated: Arbustum fugiat teneo amo succedo facere usitas.",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:25:02.42016Z",
+      "updated_at": "2025-11-13T14:25:02.576588Z"
+    },
+    {
+      "id": "789db4fa79954e21bc1b0be23a80b7d8",
+      "name": "Updated Unit 1763043901754",
+      "description": "Test unit description",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:25:00.996695Z",
+      "updated_at": "2025-11-13T14:25:01.10383Z"
+    },
+    {
+      "id": "c94eba6844344b34985532d985be5897",
+      "name": "Voltage 659",
+      "description": "Voltage measurement unit",
+      "data_type": "float",
+      "status": true,
+      "created_at": "2025-11-13T14:24:53.923746Z",
+      "updated_at": "2025-11-13T14:24:53.923746Z"
+    },
+    {
+      "id": "27a97bb02f844b79964eec7ff8e14f41",
+      "name": "Temperature 978",
+      "description": "Temperature measurement unit",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:24:52.496994Z",
+      "updated_at": "2025-11-13T14:24:52.496994Z"
+    },
+    {
+      "id": "fd0e9750c9ff4d88bca64edf4d80c639",
+      "name": "Unit 1763043891292",
+      "description": "Test unit description",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:24:51.07721Z",
+      "updated_at": "2025-11-13T14:24:51.07721Z"
+    },
+    {
+      "id": "64b33911f3e5460e8e539b60a6aa790c",
+      "name": "Unit kilogram 6314",
+      "description": "Delinquo bis soluta tolero.",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-11-13T14:24:49.54689Z",
+      "updated_at": "2025-11-13T14:24:49.546891Z"
+    }
+  ],
+  "page": 1,
+  "count": 10,
+  "total": 213
+}

@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "code": 200,
+  "message": "Units found",
+  "data": [
+    {
+      "id": "5e0b53661ab44ce4be38008a103d519b",
+      "name": "V",
+      "description": "demo",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-08-28T07:07:56.015126Z",
+      "updated_at": "2025-10-23T06:30:12.173081Z"
+    },
+    {
+      "id": "d4385ef322eb4b11a6314c113f4d5958",
+      "name": "Cm",
+      "description": "cm",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-09-01T04:43:29.35716Z",
+      "updated_at": "2025-10-23T06:30:06.409978Z"
+    },
+    {
+      "id": "c543c753306f4c34a2c8c8352ced626d",
+      "name": "A",
+      "description": "demo",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-09-02T02:03:25.648469Z",
+      "updated_at": "2025-10-23T06:29:59.248272Z"
+    },
+    {
+      "id": "676f94bbbe7b406ca2bf900298f1de28",
+      "name": "orang",
+      "description": "demo - jumlah orang",
+      "data_type": "string",
+      "status": true,
+      "created_at": "2025-09-02T04:00:20.376104Z",
+      "updated_at": "2025-10-23T06:29:54.96346Z"
+    },
+    {
+      "id": "d058f5ce87204f63b80d9c54fc273359",
+      "name": "Person",
+      "description": "demo - Jumlah orang",
+      "data_type": "string",
+      "status": true,
+      "created_at": "2025-09-02T04:32:18.344936Z",
+      "updated_at": "2025-10-23T06:29:49.599949Z"
+    },
+    {
+      "id": "6509e6448edc42e092ac2e0da8b67c0c",
+      "name": "ug/m³",
+      "description": "Weather",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-09-03T02:25:19.138903Z",
+      "updated_at": "2025-10-23T06:29:42.603539Z"
+    },
+    {
+      "id": "abadd6efdf9f4ec5997c0d874a2067ad",
+      "name": "°C",
+      "description": "Weather",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-09-03T02:25:54.856349Z",
+      "updated_at": "2025-10-23T06:29:37.693372Z"
+    },
+    {
+      "id": "0b376f68641b42aca24bc9e65fe334af",
+      "name": "kPa",
+      "description": "weather",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-09-03T02:31:02.561993Z",
+      "updated_at": "2025-10-23T06:29:33.498381Z"
+    },
+    {
+      "id": "d60aec7c0b13497ca539af905f6b3a4e",
+      "name": "mm",
+      "description": "Weather",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-09-03T02:34:18.989744Z",
+      "updated_at": "2025-10-23T06:29:26.580037Z"
+    },
+    {
+      "id": "1e57cf9ce35e46ecaaaa5d49f97e809c",
+      "name": "Lux",
+      "description": "Weather",
+      "data_type": "integer",
+      "status": true,
+      "created_at": "2025-09-03T02:34:43.360611Z",
+      "updated_at": "2025-10-23T06:29:17.468752Z"
+    }
+  ],
+  "page": 1,
+  "count": 10,
+  "total": 228
+}

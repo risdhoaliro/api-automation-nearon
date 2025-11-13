@@ -1,0 +1,14 @@
+{
+  "status": true,
+  "code": 201,
+  "message": "Unit created successfully",
+  "data": {
+    "id": "fd0e9750c9ff4d88bca64edf4d80c639",
+    "name": "Unit 1763043891292",
+    "description": "Test unit description",
+    "data_type": "integer",
+    "status": true,
+    "created_at": "2025-11-13T14:24:51.07721072Z",
+    "updated_at": "2025-11-13T14:24:51.07721079Z"
+  }
+}

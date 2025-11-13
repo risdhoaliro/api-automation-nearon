@@ -1,0 +1,8 @@
+✅ Admin user login successful
+Create Float Unit Request: {
+  "name": "Voltage 659",
+  "data_type": "float",
+  "description": "Voltage measurement unit",
+  "status": true
+}
+✅ Float unit created in 160ms

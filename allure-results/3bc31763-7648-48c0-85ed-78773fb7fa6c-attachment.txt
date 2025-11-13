@@ -1,0 +1,14 @@
+✅ Admin user login successful
+Create Unit Request (Invalid Data Type): {
+  "name": "Unit 726",
+  "data_type": "invalid_type",
+  "description": "Test description",
+  "status": true
+}
+Create Unit Response (Invalid Data Type): {
+  "status": false,
+  "code": 400,
+  "message": "Value must be integer, string and float",
+  "data": "Value must be integer, string and float"
+}
+✅ Invalid data type validation completed in 160ms

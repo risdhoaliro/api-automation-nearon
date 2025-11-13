@@ -1,0 +1,10 @@
+Search Units Response (No Auth): {
+  "status": false,
+  "code": 401,
+  "message": "unauthorized",
+  "data": [],
+  "page": 1,
+  "count": 0,
+  "total": 0
+}
+✅ Unauthorized search attempt completed in 156ms

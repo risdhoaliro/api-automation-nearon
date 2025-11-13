@@ -1,0 +1,14 @@
+{
+  "status": true,
+  "code": 200,
+  "message": "Unit updated successfully",
+  "data": {
+    "id": "06447da6486b4bdeb56178c90fe81a66",
+    "name": "Unit 1763043904167",
+    "description": "Test unit description",
+    "data_type": "integer",
+    "status": true,
+    "created_at": "2025-11-13T14:25:03.784434Z",
+    "updated_at": "2025-11-13T14:25:03.897550068Z"
+  }
+}

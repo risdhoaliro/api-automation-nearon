@@ -1,0 +1,15 @@
+✅ Admin user login successful
+🔍 Search keyword: "Unit"
+📊 Found 10 unit(s)
+✅ 7 out of 10 results contain keyword "Unit"
+  1. QA API Search Test 1763043911069
+  2. Unit 1763043907097
+  3. Unit 1763043905915
+  4. Unit 1763043904167
+  5. Unit 1763043902499
+  6. Updated Unit 1763043901754
+  7. Voltage 659
+  8. Temperature 978
+  9. Unit 1763043891292
+  10. Unit kilogram 6314
+✅ Search by partial keyword completed in 100ms

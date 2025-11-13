@@ -1,0 +1,14 @@
+✅ Admin user login successful
+Create Unit Request (Empty Name): {
+  "name": "",
+  "data_type": "integer",
+  "description": "Test description",
+  "status": true
+}
+Create Unit Response (Empty Name): {
+  "status": false,
+  "code": 400,
+  "message": "Field 'name' must be filled",
+  "data": "Field 'name' must be filled"
+}
+✅ Empty name validation completed in 122ms
