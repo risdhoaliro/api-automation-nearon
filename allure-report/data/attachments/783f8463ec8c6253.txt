@@ -1,3 +1,0 @@
-✅ Client Ticket Management user login successful
-✅ Get non-archived tickets completed in 126ms
-📊 Non-archived tickets count: 10

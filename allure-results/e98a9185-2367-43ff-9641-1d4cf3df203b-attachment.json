@@ -1,6 +1,0 @@
-{
-  "code": 400,
-  "status": false,
-  "message": "Title must be shorter than 255 characters",
-  "data": "Title must be shorter than 255 characters"
-}

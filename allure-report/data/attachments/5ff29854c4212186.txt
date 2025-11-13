@@ -1,5 +1,0 @@
-✅ Admin user login successful
-✅ Created 2 in-progress tickets: TICKET_2025_11_1762938404803001095_832, TICKET_2025_11_1762938405339543491_610
-✅ Closed first ticket: TICKET_2025_11_1762938404803001095_832
-✅ Closed second ticket: TICKET_2025_11_1762938405339543491_610 in 190ms
-🎫 Total closed: 2 tickets

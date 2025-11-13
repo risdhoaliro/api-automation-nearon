@@ -1,5 +1,0 @@
-✅ Admin user login successful
-✅ Results are correctly sorted by created_at ascending
-✅ Search and sort completed in 137ms
-🔍 Search: "Test" | Sort: created_at,asc
-📊 Found 10 ticket(s)

@@ -1,6 +1,0 @@
-{
-  "code": 400,
-  "status": false,
-  "message": "File Extenstion must One of : png,pdf,jpg,jpeg",
-  "data": "File Extenstion must One of : png,pdf,jpg,jpeg"
-}

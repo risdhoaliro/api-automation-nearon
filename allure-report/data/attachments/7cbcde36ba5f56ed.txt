@@ -1,4 +1,0 @@
-✅ Admin user login successful
-🔍 Search keyword: "sensor"
-📊 Found 10 active ticket(s) matching search
-✅ Search active tickets completed in 439ms

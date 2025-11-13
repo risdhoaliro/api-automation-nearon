@@ -1,6 +1,0 @@
-📝 Created ticket for comment test: TICKET_2025_11_1762938354219199225_380
-Add Resolution Comment Request: {
-  "message": "Issue has been resolved. Sensor is now functioning properly.",
-  "attachments": []
-}
-✅ Resolution comment added in 248ms

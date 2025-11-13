@@ -1,3 +1,0 @@
-✅ Admin user login successful
-✅ Tickets are correctly sorted by created_at descending
-✅ Get sorted active tickets completed in 99ms

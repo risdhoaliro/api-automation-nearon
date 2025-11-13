@@ -1,5 +1,0 @@
-✅ Admin user login successful
-✅ Created ticket with special characters: TICKET_2025_11_1762938395905732432_198
-📋 Title: Test-Ticket_2024 (Priority: High) #1762938395740
-✅ Search with special characters completed in 716ms
-🔍 Found ticket with special characters

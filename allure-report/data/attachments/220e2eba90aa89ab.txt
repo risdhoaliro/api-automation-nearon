@@ -1,7 +1,0 @@
-Get Active Tickets Response (Invalid Token): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Invalid token validation completed in 117ms
