@@ -1,8 +1,0 @@
-✅ Admin user login successful
-Create Temperature Unit Request: {
-  "name": "Temperature 978",
-  "data_type": "integer",
-  "description": "Temperature measurement unit",
-  "status": true
-}
-✅ Temperature unit created in 153ms

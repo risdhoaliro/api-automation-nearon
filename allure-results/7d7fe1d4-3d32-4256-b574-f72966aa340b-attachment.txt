@@ -1,0 +1,26 @@
+📝 Created package for update test: yjsczch9fk
+Update Package Request (Empty Name): {
+  "name": "",
+  "description": "Simple test package",
+  "project": 10,
+  "cloud_storage": 10,
+  "alert_notification": [
+    "whatsapp",
+    "email"
+  ],
+  "data_interval": 10,
+  "historical_data": 10,
+  "cctv": 10,
+  "parameter": 10,
+  "user": 10,
+  "ppe_detection": 10,
+  "face_detection": 10,
+  "people_counting": 10
+}
+Update Package Response (Empty Name): {
+  "code": 400,
+  "status": false,
+  "message": "invalid request",
+  "data": "invalid request"
+}
+✅ Empty name validation completed in 105ms

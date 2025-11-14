@@ -1,8 +1,0 @@
-📝 Created unit for update test: 06447da6486b4bdeb56178c90fe81a66
-Update Unit Request (Inactive): {
-  "name": "Unit 1763043904167",
-  "data_type": "integer",
-  "description": "Test unit description",
-  "status": false
-}
-✅ Unit status updated to inactive in 155ms

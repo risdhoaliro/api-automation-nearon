@@ -1,8 +1,0 @@
-✅ Admin user login successful
-Create Unit Request (Simple): {
-  "name": "Unit 1763043891292",
-  "data_type": "integer",
-  "description": "Test unit description",
-  "status": true
-}
-✅ Simple unit created successfully in 342ms

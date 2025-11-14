@@ -1,0 +1,219 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": [
+    {
+      "id": "yzunmkygmu",
+      "package_name": "QA Package 4496",
+      "package_type": "STANDARD",
+      "description": "Test package",
+      "project": 10,
+      "cloud_storage": 10,
+      "user": 0,
+      "parameter": 10,
+      "interval": 10,
+      "historical": 10,
+      "cctv": 10,
+      "notification": [
+        "email"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 10,
+      "face_detection": 10,
+      "people_counting": 10
+    },
+    {
+      "id": "jawz4yucwy",
+      "package_name": "QA Package 2834",
+      "package_type": "STANDARD",
+      "description": "Test package",
+      "project": -10,
+      "cloud_storage": 10,
+      "user": 10,
+      "parameter": 10,
+      "interval": 10,
+      "historical": 10,
+      "cctv": 10,
+      "notification": [
+        "email"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 10,
+      "face_detection": 10,
+      "people_counting": 10
+    },
+    {
+      "id": "jw4gjvmpdp",
+      "package_name": "QA Basic Package 8339",
+      "package_type": "STANDARD",
+      "description": "Basic package with minimal limits for small businesses",
+      "project": 5,
+      "cloud_storage": 10,
+      "user": 5,
+      "parameter": 10,
+      "interval": 30,
+      "historical": 30,
+      "cctv": 5,
+      "notification": [
+        "email"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 0,
+      "face_detection": 0,
+      "people_counting": 0
+    },
+    {
+      "id": "trbmphrlie",
+      "package_name": "QA Premium Package 6536",
+      "package_type": "STANDARD",
+      "description": "Premium package with high limits for enterprise customers",
+      "project": 100,
+      "cloud_storage": 1000,
+      "user": 100,
+      "parameter": 100,
+      "interval": 5,
+      "historical": 365,
+      "cctv": 50,
+      "notification": [
+        "whatsapp",
+        "email",
+        "telegram"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 50,
+      "face_detection": 50,
+      "people_counting": 50
+    },
+    {
+      "id": "hib45gwv3n",
+      "package_name": "QA Simple Package 3147",
+      "package_type": "STANDARD",
+      "description": "Simple test package",
+      "project": 10,
+      "cloud_storage": 10,
+      "user": 10,
+      "parameter": 10,
+      "interval": 10,
+      "historical": 10,
+      "cctv": 10,
+      "notification": [
+        "whatsapp",
+        "email"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 10,
+      "face_detection": 10,
+      "people_counting": 10
+    },
+    {
+      "id": "qqaixc5eph",
+      "package_name": "QA Package avaricious 7783",
+      "package_type": "STANDARD",
+      "description": "Tondeo adimpleo alo aeternus architecto tego spiculum ex textilis timidus.",
+      "project": 57,
+      "cloud_storage": 94,
+      "user": 8,
+      "parameter": 66,
+      "interval": 43,
+      "historical": 235,
+      "cctv": 23,
+      "notification": [
+        "whatsapp",
+        "email",
+        "telegram"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 25,
+      "face_detection": 48,
+      "people_counting": 27
+    },
+    {
+      "id": "lycvx2yyph",
+      "package_name": "QA Simple Package 6469",
+      "package_type": "STANDARD",
+      "description": "Simple test package",
+      "project": 10,
+      "cloud_storage": 10,
+      "user": 10,
+      "parameter": 10,
+      "interval": 10,
+      "historical": 10,
+      "cctv": 10,
+      "notification": [
+        "whatsapp",
+        "email"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 10,
+      "face_detection": 10,
+      "people_counting": 10
+    },
+    {
+      "id": "nlxhxtcbrt",
+      "package_name": "QA Simple Package 9261",
+      "package_type": "STANDARD",
+      "description": "Simple test package",
+      "project": 10,
+      "cloud_storage": 10,
+      "user": 10,
+      "parameter": 10,
+      "interval": 10,
+      "historical": 10,
+      "cctv": 10,
+      "notification": [
+        "whatsapp",
+        "email"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 10,
+      "face_detection": 10,
+      "people_counting": 10
+    },
+    {
+      "id": "awq3k23siu",
+      "package_name": "QA Simple Package 8018",
+      "package_type": "STANDARD",
+      "description": "Simple test package",
+      "project": 10,
+      "cloud_storage": 10,
+      "user": 10,
+      "parameter": 10,
+      "interval": 10,
+      "historical": 10,
+      "cctv": 10,
+      "notification": [
+        "whatsapp",
+        "email"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 10,
+      "face_detection": 10,
+      "people_counting": 10
+    },
+    {
+      "id": "nut4ozu8bg",
+      "package_name": "QA Simple Package 4616",
+      "package_type": "STANDARD",
+      "description": "Simple test package",
+      "project": 10,
+      "cloud_storage": 10,
+      "user": 10,
+      "parameter": 10,
+      "interval": 10,
+      "historical": 10,
+      "cctv": 10,
+      "notification": [
+        "whatsapp",
+        "email"
+      ],
+      "status": "NOT ACTIVE",
+      "ppe_detection": 10,
+      "face_detection": 10,
+      "people_counting": 10
+    }
+  ],
+  "page": 1,
+  "count": 10,
+  "total": 81
+}

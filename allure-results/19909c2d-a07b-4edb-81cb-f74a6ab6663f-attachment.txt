@@ -1,8 +1,0 @@
-📝 Created unit for update test: bbec304ffc184dcf802b9b2314c5cbdf
-Update Unit Request (Description): {
-  "name": "Unit 1763043902499",
-  "data_type": "integer",
-  "description": "Updated: Arbustum fugiat teneo amo succedo facere usitas.",
-  "status": true
-}
-✅ Unit description updated in 149ms

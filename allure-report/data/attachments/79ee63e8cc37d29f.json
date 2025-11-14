@@ -1,6 +1,0 @@
-{
-  "status": false,
-  "code": 400,
-  "message": "Value must be integer, string and float",
-  "data": "Value must be integer, string and float"
-}

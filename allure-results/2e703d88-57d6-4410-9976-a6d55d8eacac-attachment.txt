@@ -1,7 +1,0 @@
-Delete Unit Response (No Auth): {
-  "status": false,
-  "code": 401,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Unauthorized delete attempt completed in 146ms

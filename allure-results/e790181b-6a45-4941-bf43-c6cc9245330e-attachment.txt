@@ -1,0 +1,26 @@
+📝 Created package for update test: hgkeyl6dbp
+Update Package Request (Invalid ID): {
+  "name": "QA Simple Package 2023 - Updated",
+  "description": "Simple test package - Updated description",
+  "project": 15,
+  "cloud_storage": 10,
+  "alert_notification": [
+    "whatsapp",
+    "email"
+  ],
+  "data_interval": 10,
+  "historical_data": 10,
+  "cctv": 10,
+  "parameter": 10,
+  "user": 15,
+  "ppe_detection": 10,
+  "face_detection": 10,
+  "people_counting": 10
+}
+Update Package Response (Invalid ID): {
+  "code": 404,
+  "status": false,
+  "message": "package id not found",
+  "data": "package id not found"
+}
+✅ Invalid package ID validation completed in 111ms

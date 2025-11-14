@@ -1,0 +1,13 @@
+🚀 API Interceptor enabled for Delete Package API tests
+✅ Admin user login successful
+✅ Created package for deletion: x20nmkqmiz
+✅ Verified package exists: x20nmkqmiz
+Delete Package Response: {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": null
+}
+✅ Package deleted successfully in 274ms
+🗑️ Deleted Package ID: x20nmkqmiz
+✅ Verified package is deleted and cannot be retrieved

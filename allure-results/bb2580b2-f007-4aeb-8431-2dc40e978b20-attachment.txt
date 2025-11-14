@@ -1,0 +1,10 @@
+Get Packages Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": [],
+  "page": 1,
+  "count": 0,
+  "total": 0
+}
+✅ Unauthorized get attempt completed in 109ms

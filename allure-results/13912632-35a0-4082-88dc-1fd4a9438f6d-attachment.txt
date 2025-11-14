@@ -1,4 +1,0 @@
-✅ Admin user login successful
-✅ Search for non-existent name completed in 115ms
-🔍 Search: "NonExistentUnit1763043913716XYZ123"
-📊 Found 0 unit(s) (expected: 0)

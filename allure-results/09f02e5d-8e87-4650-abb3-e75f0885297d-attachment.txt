@@ -1,0 +1,60 @@
+🚀 API Interceptor enabled for Create Package API tests
+✅ Admin user login successful
+Create Package Request: {
+  "name": "QA Package avaricious 7783",
+  "description": "Tondeo adimpleo alo aeternus architecto tego spiculum ex textilis timidus.",
+  "project": 57,
+  "cloud_storage": 94,
+  "alert_notification": [
+    "whatsapp",
+    "email",
+    "telegram"
+  ],
+  "data_interval": 43,
+  "historical_data": 235,
+  "cctv": 23,
+  "parameter": 66,
+  "user": 8,
+  "ppe_detection": 25,
+  "face_detection": 48,
+  "people_counting": 27
+}
+Create Package Response: {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": {
+    "id": "qqaixc5eph",
+    "name": "QA Package avaricious 7783",
+    "description": "Tondeo adimpleo alo aeternus architecto tego spiculum ex textilis timidus.",
+    "environments": [
+      {
+        "actuators": 0,
+        "alert_notification": [
+          "whatsapp",
+          "email",
+          "telegram"
+        ],
+        "cctv": 23,
+        "cloud_storage": 94,
+        "data_interval": 43,
+        "face_recognition": 48,
+        "groups": 0,
+        "historical_data": 235,
+        "nodes": 0,
+        "parameter": 66,
+        "people_detection": 27,
+        "ppe": 25,
+        "project": 57,
+        "projects": 0,
+        "sensors": 0,
+        "user": 8
+      }
+    ],
+    "created_at": "2025-11-14T10:18:28.367375038Z",
+    "updated_at": "2025-11-14T10:18:28.367375102Z"
+  }
+}
+✅ Package created successfully in 317ms
+📦 Package ID: qqaixc5eph
+📝 Package Name: QA Package avaricious 7783

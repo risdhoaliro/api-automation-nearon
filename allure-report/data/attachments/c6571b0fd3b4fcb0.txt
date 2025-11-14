@@ -1,0 +1,25 @@
+Create Package Request (No Auth): {
+  "name": "QA Simple Package 3160",
+  "description": "Simple test package",
+  "project": 10,
+  "cloud_storage": 10,
+  "alert_notification": [
+    "whatsapp",
+    "email"
+  ],
+  "data_interval": 10,
+  "historical_data": 10,
+  "cctv": 10,
+  "parameter": 10,
+  "user": 10,
+  "ppe_detection": 10,
+  "face_detection": 10,
+  "people_counting": 10
+}
+Create Package Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized create attempt completed in 111ms

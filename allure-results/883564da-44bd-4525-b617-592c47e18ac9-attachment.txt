@@ -1,0 +1,54 @@
+✅ Admin user login successful
+Create Package Request (Negative Project): {
+  "name": "QA Package 2834",
+  "description": "Test package",
+  "project": -10,
+  "cloud_storage": 10,
+  "alert_notification": [
+    "email"
+  ],
+  "data_interval": 10,
+  "historical_data": 10,
+  "cctv": 10,
+  "parameter": 10,
+  "user": 10,
+  "ppe_detection": 10,
+  "face_detection": 10,
+  "people_counting": 10
+}
+Create Package Response (Negative Project): {
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": {
+    "id": "jawz4yucwy",
+    "name": "QA Package 2834",
+    "description": "Test package",
+    "environments": [
+      {
+        "actuators": 0,
+        "alert_notification": [
+          "email"
+        ],
+        "cctv": 10,
+        "cloud_storage": 10,
+        "data_interval": 10,
+        "face_recognition": 10,
+        "groups": 0,
+        "historical_data": 10,
+        "nodes": 0,
+        "parameter": 10,
+        "people_detection": 10,
+        "ppe": 10,
+        "project": -10,
+        "projects": 0,
+        "sensors": 0,
+        "user": 10
+      }
+    ],
+    "created_at": "2025-11-14T10:18:31.331753846Z",
+    "updated_at": "2025-11-14T10:18:31.33175392Z"
+  }
+}
+✅ Package with negative project created in 270ms
+⚠️ Note: API accepts negative values - this may be intentional or a bug
