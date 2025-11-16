@@ -1,0 +1,10 @@
+File exists: true
+File path: ./src/asset/nearon_logo.png
+Filename: nearon_logo.png
+Upload Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized upload attempt completed in 3400ms

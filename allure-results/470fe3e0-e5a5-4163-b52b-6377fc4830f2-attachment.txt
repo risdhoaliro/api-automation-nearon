@@ -1,0 +1,14 @@
+✅ Admin API automation user login successful
+Create Category Request (Empty Description): {
+  "name": "QA Category distant",
+  "description": "",
+  "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20251116190918374.png",
+  "status": "ACTIVE"
+}
+Create Category Response (Empty Description): {
+  "code": 500,
+  "status": false,
+  "message": "Failed to create category",
+  "data": "Failed to create category"
+}
+✅ Empty description validation completed in 257ms

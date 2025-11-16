@@ -1,0 +1,14 @@
+✅ Admin API automation user login successful
+Update Category Request (Empty Icon): {
+  "name": "QA Updated Category bulky",
+  "description": "Updated Testing QA",
+  "icon": "",
+  "status": "ACTIVE"
+}
+Update Category Response (Empty Icon): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'icon' must be filled",
+  "data": "Field 'icon' must be filled"
+}
+✅ Empty icon validation completed in 124ms

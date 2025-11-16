@@ -1,0 +1,32 @@
+🚀 API Interceptor enabled for Update Category API tests
+✅ Admin token from cookie: obtained
+File exists: true
+File path: ./src/asset/nearon_logo.png
+Filename: nearon_logo.png
+📦 Shared Icon URL for Update tests: https://dev-assets.synapsis.id/nearon-dev/category/20251116190922753.png
+✅ Admin API automation user login successful
+📝 Got category ID for update: 65b2301e5ce847d084a502f92c72d243
+📝 Category Name: QA Updated Sensor Category 9593
+Update Category Request: {
+  "name": "QA Updated Sensor Category 4144",
+  "description": "Updated Testing QA",
+  "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20251116190922753.png",
+  "status": "ACTIVE"
+}
+Update Category Response: {
+  "code": 200,
+  "status": true,
+  "message": "Category updated successfully",
+  "data": {
+    "id": "65b2301e5ce847d084a502f92c72d243",
+    "name": "QA Updated Sensor Category 4144",
+    "icon": "category/20251116190922753.png",
+    "description": "Updated Testing QA",
+    "created_at": "2025-11-03T04:24:22.915332Z",
+    "updated_at": "2025-11-16T19:09:25.08392119Z",
+    "status": "ACTIVE"
+  }
+}
+✅ Category updated successfully in 403ms
+📝 Category ID: 65b2301e5ce847d084a502f92c72d243
+📝 Updated Name: QA Updated Sensor Category 4144

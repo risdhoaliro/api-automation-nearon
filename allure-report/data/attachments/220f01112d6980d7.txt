@@ -1,0 +1,10 @@
+✅ Admin API automation user login successful
+📝 Got category ID: d4b81ad40fde43d7894d9b5c8f9fa2b3
+🗑️ Category deleted: Water
+Delete Category Response (Already Deleted): {
+  "code": 200,
+  "status": true,
+  "message": "Category soft deleted successfully",
+  "data": null
+}
+✅ Already deleted category validation completed in 248ms

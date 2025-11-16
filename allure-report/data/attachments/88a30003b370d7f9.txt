@@ -1,0 +1,14 @@
+✅ Admin API automation user login successful
+Create Category Request (Empty Status): {
+  "name": "QA Category parched",
+  "description": "Testing QA",
+  "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20251116190918374.png",
+  "status": ""
+}
+Create Category Response (Empty Status): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'status' must be filled",
+  "data": "Field 'status' must be filled"
+}
+✅ Empty status validation completed in 118ms

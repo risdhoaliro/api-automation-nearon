@@ -1,0 +1,20 @@
+🚀 API Interceptor enabled for Create Category API tests
+✅ Admin token from cookie obtained
+File exists: true
+File path: ./src/asset/nearon_logo.png
+Filename: nearon_logo.png
+📦 Shared Icon URL for Create tests: https://dev-assets.synapsis.id/nearon-dev/category/20251116190918374.png
+✅ Admin API automation user login successful
+Create Category Request (Empty Name): {
+  "name": "",
+  "description": "Testing QA",
+  "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20251116190918374.png",
+  "status": "ACTIVE"
+}
+Create Category Response (Empty Name): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'name' must be filled",
+  "data": "Field 'name' must be filled"
+}
+✅ Empty name validation completed in 109ms

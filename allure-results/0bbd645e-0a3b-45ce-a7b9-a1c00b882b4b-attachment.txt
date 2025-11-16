@@ -1,0 +1,12 @@
+✅ Admin API automation user login successful
+File exists: true
+File path: ./src/asset/nearon_logo.jpg
+Filename: nearon_logo.jpg
+Upload JPG Icon Response: {
+  "code": 201,
+  "status": true,
+  "message": "Icon uploaded",
+  "data": "https://dev-assets.synapsis.id/nearon-dev/category/20251116190909651.jpg"
+}
+✅ JPG icon upload completed in 282ms
+📦 Icon URL: https://dev-assets.synapsis.id/nearon-dev/category/20251116190909651.jpg

@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "Category not found",
+  "data": "Category not found"
+}

@@ -1,0 +1,13 @@
+Update Category Request (No Auth): {
+  "name": "QA Updated Sensor Category 1788",
+  "description": "Updated Testing QA",
+  "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20251116190922753.png",
+  "status": "ACTIVE"
+}
+Update Category Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized update attempt completed in 241ms

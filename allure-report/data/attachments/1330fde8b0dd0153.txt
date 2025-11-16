@@ -1,0 +1,14 @@
+✅ Admin API automation user login successful
+Create Category Request (Empty Icon): {
+  "name": "QA Category bossy",
+  "description": "Testing QA",
+  "icon": "",
+  "status": "ACTIVE"
+}
+Create Category Response (Empty Icon): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'icon' must be filled",
+  "data": "Field 'icon' must be filled"
+}
+✅ Empty icon validation completed in 1431ms

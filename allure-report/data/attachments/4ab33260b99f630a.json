@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "Categories found",
+  "page": 1,
+  "count": 5,
+  "total": 10,
+  "data": [
+    {
+      "id": "65b2301e5ce847d084a502f92c72d243",
+      "name": "QA Updated Sensor Category 9593",
+      "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20251116190220139.png",
+      "description": "Updated Testing QA",
+      "created_at": "2025-11-03T04:24:22.915332Z",
+      "updated_at": "2025-11-16T19:02:23.25374Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "1997b32961684d6b80644e3601993339",
+      "name": "Door",
+      "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20250922052336074.png",
+      "description": "Door",
+      "created_at": "2025-09-22T05:23:36.237273Z",
+      "updated_at": "2025-09-22T05:23:36.237273Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "da4c94da08b0459cb015f6705afa5905",
+      "name": "Smoke",
+      "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20250922052241042.png",
+      "description": "Smoke",
+      "created_at": "2025-09-22T05:22:41.165848Z",
+      "updated_at": "2025-09-22T05:22:41.165848Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "e953f0c19dfd4bb0b100c42c608b2c2a",
+      "name": "Location",
+      "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20250909042430180.png",
+      "description": "Location",
+      "created_at": "2025-09-09T04:24:30.46678Z",
+      "updated_at": "2025-09-09T04:24:30.46678Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ae4f4d2dbe2d424793fbd53e2eb16259",
+      "name": "Light",
+      "icon": "https://dev-assets.synapsis.id/nearon-dev/category/20250909042256411.png",
+      "description": "Light",
+      "created_at": "2025-09-09T04:22:56.545654Z",
+      "updated_at": "2025-09-09T04:22:56.545654Z",
+      "status": "ACTIVE"
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"d42d8485b9f8cd4deedc9eaaa2ca6719","name":"packageManagement.test.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":20,"unknown":0,"total":20}}]}
+{"total":1,"items":[{"uid":"2020b96430eed0e9ae8c137fe5c2e3c1","name":"Device Catalog/categoryManagement.test.ts","statistic":{"failed":0,"broken":0,"skipped":1,"passed":24,"unknown":0,"total":25}}]}

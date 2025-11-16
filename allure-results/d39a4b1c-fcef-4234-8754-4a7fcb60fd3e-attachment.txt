@@ -1,0 +1,7 @@
+Get Categories Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized get categories attempt completed in 126ms
