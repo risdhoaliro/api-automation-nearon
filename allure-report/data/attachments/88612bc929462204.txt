@@ -1,8 +1,0 @@
-📝 Got category ID: 65b2301e5ce847d084a502f92c72d243
-Delete Category Response (No Auth): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Unauthorized delete attempt completed in 107ms

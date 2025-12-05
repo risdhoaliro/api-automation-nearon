@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"2020b96430eed0e9ae8c137fe5c2e3c1","name":"Device Catalog/categoryManagement.test.ts","statistic":{"failed":0,"broken":0,"skipped":1,"passed":24,"unknown":0,"total":25}}]}
+{"total":1,"items":[{"uid":"b2fd3db3d26824fee5382a03f94fc434","name":"Device Catalog/cctvCatalog.test.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":16,"unknown":0,"total":16}}]}

@@ -1,8 +1,0 @@
-✅ Admin API automation user login successful
-Delete Category Response (Invalid ID): {
-  "code": 200,
-  "status": true,
-  "message": "Category soft deleted successfully",
-  "data": null
-}
-✅ Delete with invalid ID completed in 257ms (API accepts any ID)

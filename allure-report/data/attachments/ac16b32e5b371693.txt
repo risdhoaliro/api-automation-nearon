@@ -1,0 +1,16 @@
+📝 Update Request (PTZ): {
+  "cctv_brand_id": 1,
+  "name": "QA Automation CCTV LP1Msu",
+  "code": "QA-CCTV-WUUX",
+  "type": "PTZ",
+  "image_url": "https://dev-assets.synapsis.id/nearon/test-image.png",
+  "status": false,
+  "zoom_capability": true
+}
+📦 Update Response: {
+  "code": 201,
+  "status": true,
+  "message": "CCTV brand model updated successfully",
+  "data": null
+}
+✅ CCTV brand model (PTZ) updated in 3308ms

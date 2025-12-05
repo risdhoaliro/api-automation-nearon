@@ -1,8 +1,0 @@
-✅ Admin API automation user login successful
-Delete Category Response (Non-existent): {
-  "code": 200,
-  "status": true,
-  "message": "Category soft deleted successfully",
-  "data": null
-}
-✅ Delete non-existent category completed in 123ms (API is idempotent)

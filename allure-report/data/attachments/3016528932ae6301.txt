@@ -1,0 +1,12 @@
+🔍 Searching for non-existent: NonExistentCCTVModel12345XYZ
+📦 Search Response (Non-existent): {
+  "code": 201,
+  "status": true,
+  "message": "CCTV brand model found successfully",
+  "page": 1,
+  "count": 0,
+  "total": 0,
+  "data": []
+}
+📊 No results found as expected
+✅ Non-existent search completed in 3229ms

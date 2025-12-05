@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "CCTV brand not found",
+  "data": "CCTV brand not found"
+}
