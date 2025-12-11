@@ -1,7 +1,0 @@
-📦 Update Response (Invalid Model ID): {
-  "code": 400,
-  "status": false,
-  "message": "CCTV brand not found",
-  "data": "CCTV brand not found"
-}
-✅ Invalid model ID update attempt completed in 3235ms

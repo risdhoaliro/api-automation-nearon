@@ -1,0 +1,8 @@
+📦 Get Machines Response (Invalid Area ID): {
+  "code": 400,
+  "status": false,
+  "message": "Area ID is not valid",
+  "data": "Area ID is not valid"
+}
+📊 API Response - Status: false, Code: 400
+✅ Invalid area ID get attempt completed in 383ms

@@ -1,0 +1,54 @@
+🚀 API Interceptor enabled for Delete Machine API tests
+✅ Client token from cookie obtained
+📝 Create Area Request: {
+  "name": "QA Area XgXK2O",
+  "company_id": "dqkgefnsge"
+}
+📦 Create Area Response: {
+  "code": 201,
+  "status": true,
+  "message": "Area created successfully",
+  "data": {
+    "id": "cb34a9fac09b450ebfac5edd621c6a56",
+    "name": "QA Area XgXK2O",
+    "company_id": "dqkgefnsge",
+    "created_at": "2025-12-11T11:05:51.541521961Z",
+    "updated_at": "2025-12-11T11:05:51.541522129Z"
+  }
+}
+📝 Created Area ID: cb34a9fac09b450ebfac5edd621c6a56
+📝 Create Machine Request: {
+  "name": "QA Machine OPXvru",
+  "device_type": "server",
+  "ip": "41.78.45.227",
+  "port": "8249",
+  "area_id": "cb34a9fac09b450ebfac5edd621c6a56"
+}
+📦 Create Machine Response: {
+  "code": 201,
+  "status": true,
+  "message": "Machine created successfully",
+  "data": {
+    "id": "962a48cb36744f5d8e7c6d834d676232",
+    "name": "QA Machine OPXvru",
+    "type": "server",
+    "area_id": "cb34a9fac09b450ebfac5edd621c6a56",
+    "area_name": null,
+    "ip": "41.78.45.227",
+    "port": "8249",
+    "status": null,
+    "created_at": "2025-12-11T11:05:52.069348795Z",
+    "updated_at": "2025-12-11T11:05:52.06934885Z",
+    "last_seen_at": null
+  }
+}
+📝 Created machine for deletion: 962a48cb36744f5d8e7c6d834d676232
+📦 Delete Machine Response: {
+  "code": 200,
+  "status": true,
+  "message": "Machine soft deleted successfully",
+  "data": null
+}
+🗑️ Deleted Machine ID: 962a48cb36744f5d8e7c6d834d676232
+✅ Machine deleted successfully in 5301ms
+✅ Verified machine is no longer in the list

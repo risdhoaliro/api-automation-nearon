@@ -1,7 +1,0 @@
-📦 Update Response (No Auth): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Unauthorized update attempt completed in 3293ms

@@ -1,0 +1,8 @@
+📝 Created area for deletion: b20114d8adcb425ca11292385527fe42
+📦 Delete Area Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized delete attempt completed in 5132ms

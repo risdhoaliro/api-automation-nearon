@@ -1,0 +1,7 @@
+📦 Create Area Response (Invalid Token): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Invalid token create attempt completed in 284ms

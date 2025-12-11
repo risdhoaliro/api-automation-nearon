@@ -1,0 +1,8 @@
+📦 Create CCTV Response (Empty Port): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'port' must be filled",
+  "data": "Field 'port' must be filled"
+}
+📊 API Response - Status: false, Code: 400
+✅ Empty port validation completed in 252ms

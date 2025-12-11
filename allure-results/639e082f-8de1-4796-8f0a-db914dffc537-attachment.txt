@@ -1,0 +1,12 @@
+📝 Create Area Request (Special Characters): {
+  "name": "<script>alert(\"XSS\")</script>",
+  "company_id": "dqkgefnsge"
+}
+📦 Create Area Response (Special Characters): {
+  "code": 400,
+  "status": false,
+  "message": "Area name already exist",
+  "data": "Area name already exist"
+}
+📊 API Response for special characters - Status: false, Code: 400
+✅ Special characters validation completed in 105ms

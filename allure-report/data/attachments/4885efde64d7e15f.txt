@@ -1,0 +1,84 @@
+📝 Area ID: a716c1df8bdf4669b0aa6f940a43ab7f
+📝 Machine ID: d25bfac10b8f4c6baf30b93e2f05d44e
+📝 Create CCTV PPE Request: {
+  "machine_id": "d25bfac10b8f4c6baf30b93e2f05d44e",
+  "name": "QA CCTV PPE gbTXTn",
+  "ip": "68.245.44.180",
+  "port": "8352",
+  "username": "admin",
+  "password": "password",
+  "channel": "QA Channel THsD",
+  "oem": "0307fa4e-d6a4-4e40-8690-bea2a65ef972",
+  "cctv_brand_model_id": "0307fa4e-d6a4-4e40-8690-bea2a65ef972",
+  "ptz_channel": "1",
+  "module_ai": "ppe",
+  "required_ppe": [
+    "face_recognition",
+    "helmet",
+    "glasses",
+    "gloves",
+    "vest",
+    "boots"
+  ],
+  "detection_confidence": 0.5,
+  "association_confidence": 0.5,
+  "is_ai_on_prem": true
+}
+📦 Create CCTV PPE Response: {
+  "code": 201,
+  "status": true,
+  "message": "CCTV created successfully",
+  "data": {
+    "id": "d74472e5bc974f2087f14f9f1ac96167",
+    "node": null,
+    "machine": {
+      "id": "d25bfac10b8f4c6baf30b93e2f05d44e",
+      "name": "QA Machine eKZkwT",
+      "ip": "172.149.44.14",
+      "port": "8054"
+    },
+    "area": null,
+    "name": "QA CCTV PPE gbTXTn",
+    "ip": "68.245.44.180",
+    "rtsp_port": "8352",
+    "username": "admin",
+    "channel": "QA Channel THsD",
+    "ptz_channel": "1",
+    "is_online": false,
+    "stream_url": null,
+    "stream_url_with_ai": null,
+    "created_at": "2025-12-11T11:04:23.489014Z",
+    "updated_at": "2025-12-11T11:04:23.489014Z",
+    "stream_status": "",
+    "oem": "0307fa4e-d6a4-4e40-8690-bea2a65ef972",
+    "device_tuya_id": null,
+    "required_ppe": [
+      "face_recognition",
+      "helmet",
+      "glasses",
+      "gloves",
+      "vest",
+      "boots"
+    ],
+    "module_ai": "ppe",
+    "detection_confidence": 0.5,
+    "association_confidence": 0.5,
+    "is_ai_on_prem": true,
+    "cloud_machine_id": null,
+    "password": "password",
+    "cctv_brand_model_id": "",
+    "cctv_brand_model_name": "",
+    "cctv_brand_model_image": "",
+    "cctv_brand_model_zoom_capability": null,
+    "geofence_settings": null
+  }
+}
+✅ Created CCTV PPE ID: d74472e5bc974f2087f14f9f1ac96167
+🗑️ Deleting CCTV ID: d74472e5bc974f2087f14f9f1ac96167
+📦 Delete CCTV Response: {
+  "code": 201,
+  "status": true,
+  "message": "CCTV deleted successfully",
+  "data": null
+}
+✅ CCTV PPE deleted successfully in 10167ms

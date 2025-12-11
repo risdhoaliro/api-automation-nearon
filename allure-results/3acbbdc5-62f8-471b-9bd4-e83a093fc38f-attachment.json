@@ -1,0 +1,49 @@
+{
+  "code": 201,
+  "status": true,
+  "message": "CCTV updated successfully",
+  "data": {
+    "id": "7fec30c738b4486b8e0c34df4b762f3b",
+    "node": null,
+    "machine": {
+      "id": "0f6a80553bff40459c3effb07af5db4a",
+      "name": "QA Machine B7DJQZ",
+      "ip": "178.91.77.61",
+      "port": "8386"
+    },
+    "area": null,
+    "name": "QA CCTV PPE Updated udU8B1",
+    "ip": "93.8.245.119",
+    "rtsp_port": "9144",
+    "username": "admin",
+    "channel": "QA Channel Updated lb3o",
+    "ptz_channel": "7",
+    "is_online": false,
+    "stream_url": null,
+    "stream_url_with_ai": null,
+    "created_at": "2025-12-11T11:03:59.585816Z",
+    "updated_at": "2025-12-11T11:03:59.731792Z",
+    "stream_status": "",
+    "oem": "0307fa4e-d6a4-4e40-8690-bea2a65ef972",
+    "device_tuya_id": null,
+    "required_ppe": [
+      "face_recognition",
+      "helmet",
+      "glasses",
+      "gloves",
+      "vest",
+      "boots"
+    ],
+    "module_ai": "ppe",
+    "detection_confidence": 0.5,
+    "association_confidence": 0.5,
+    "is_ai_on_prem": true,
+    "cloud_machine_id": null,
+    "password": "password",
+    "cctv_brand_model_id": "",
+    "cctv_brand_model_name": "",
+    "cctv_brand_model_image": "",
+    "cctv_brand_model_zoom_capability": null,
+    "geofence_settings": null
+  }
+}

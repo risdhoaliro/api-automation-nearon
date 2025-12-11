@@ -1,0 +1,104 @@
+🚀 API Interceptor enabled for CCTV Management API tests
+✅ Client token from cookie obtained
+📝 Create Area Request: {
+  "name": "QA Area APDQmj",
+  "company_id": "dqkgefnsge"
+}
+📦 Create Area Response: {
+  "code": 201,
+  "status": true,
+  "message": "Area created successfully",
+  "data": {
+    "id": "17fc9250733449dfb042ea056b3e775f",
+    "name": "QA Area APDQmj",
+    "company_id": "dqkgefnsge",
+    "created_at": "2025-12-11T11:02:10.934604545Z",
+    "updated_at": "2025-12-11T11:02:10.934604635Z"
+  }
+}
+📝 Create Machine Request: {
+  "name": "QA Machine MVqlsa",
+  "device_type": "raspi",
+  "ip": "127.152.204.80",
+  "port": "6103",
+  "area_id": "17fc9250733449dfb042ea056b3e775f"
+}
+📦 Create Machine Response: {
+  "code": 201,
+  "status": true,
+  "message": "Machine created successfully",
+  "data": {
+    "id": "080463bf679b427691a3604c7e8c5f21",
+    "name": "QA Machine MVqlsa",
+    "type": "raspi",
+    "area_id": "17fc9250733449dfb042ea056b3e775f",
+    "area_name": null,
+    "ip": "127.152.204.80",
+    "port": "6103",
+    "status": null,
+    "created_at": "2025-12-11T11:02:11.110201542Z",
+    "updated_at": "2025-12-11T11:02:11.110201605Z",
+    "last_seen_at": null
+  }
+}
+📝 Create CCTV Request: {
+  "machine_id": "080463bf679b427691a3604c7e8c5f21",
+  "name": "QA CCTV Person 1KXPTp",
+  "ip": "126.141.193.29",
+  "port": "9930",
+  "username": "admin",
+  "password": "password",
+  "channel": "QA Channel lYOx",
+  "oem": "448467dc-6b77-4e58-96c4-7c38fa93240e",
+  "cctv_brand_model_id": "448467dc-6b77-4e58-96c4-7c38fa93240e",
+  "ptz_channel": "1",
+  "module_ai": "people_detection",
+  "detection_confidence": 0.5,
+  "association_confidence": 0.5,
+  "is_ai_on_prem": true
+}
+📦 Create CCTV Response: {
+  "code": 201,
+  "status": true,
+  "message": "CCTV created successfully",
+  "data": {
+    "id": "6a2c60cd49204b7fb483196e96170f6d",
+    "node": null,
+    "machine": {
+      "id": "080463bf679b427691a3604c7e8c5f21",
+      "name": "QA Machine MVqlsa",
+      "ip": "127.152.204.80",
+      "port": "6103"
+    },
+    "area": null,
+    "name": "QA CCTV Person 1KXPTp",
+    "ip": "126.141.193.29",
+    "rtsp_port": "9930",
+    "username": "admin",
+    "channel": "QA Channel lYOx",
+    "ptz_channel": "1",
+    "is_online": false,
+    "stream_url": null,
+    "stream_url_with_ai": null,
+    "created_at": "2025-12-11T11:02:16.407864Z",
+    "updated_at": "2025-12-11T11:02:16.407864Z",
+    "stream_status": "",
+    "oem": "448467dc-6b77-4e58-96c4-7c38fa93240e",
+    "device_tuya_id": null,
+    "required_ppe": null,
+    "module_ai": "people_detection",
+    "detection_confidence": 0.5,
+    "association_confidence": 0.5,
+    "is_ai_on_prem": true,
+    "cloud_machine_id": null,
+    "password": "password",
+    "cctv_brand_model_id": "",
+    "cctv_brand_model_name": "",
+    "cctv_brand_model_image": "",
+    "cctv_brand_model_zoom_capability": null,
+    "geofence_settings": null
+  }
+}
+📝 CCTV ID: 6a2c60cd49204b7fb483196e96170f6d
+📝 CCTV Name: QA CCTV Person 1KXPTp
+✅ CCTV created successfully in 5557ms

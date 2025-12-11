@@ -1,0 +1,8 @@
+📦 Create CCTV Response (Invalid Machine ID): {
+  "code": 404,
+  "status": false,
+  "message": "Machine not found",
+  "data": "Machine not found"
+}
+📊 API Response - Status: false, Code: 404
+✅ Invalid machine_id validation completed in 5246ms

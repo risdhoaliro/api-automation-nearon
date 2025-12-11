@@ -1,0 +1,47 @@
+🚀 API Interceptor enabled for Create Machine API tests
+✅ Client token from cookie obtained
+📝 Create Area Request: {
+  "name": "QA Area U594Cv",
+  "company_id": "dqkgefnsge"
+}
+📦 Create Area Response: {
+  "code": 201,
+  "status": true,
+  "message": "Area created successfully",
+  "data": {
+    "id": "1b5095ea1f1e453e9baf382568f39106",
+    "name": "QA Area U594Cv",
+    "company_id": "dqkgefnsge",
+    "created_at": "2025-12-11T11:05:10.889592362Z",
+    "updated_at": "2025-12-11T11:05:10.889592443Z"
+  }
+}
+📝 Created Area ID for Machine: 1b5095ea1f1e453e9baf382568f39106
+📝 Create Machine Request: {
+  "name": "QA Machine yfF2vc",
+  "device_type": "raspi",
+  "ip": "59.65.132.119",
+  "port": "4117",
+  "area_id": "1b5095ea1f1e453e9baf382568f39106"
+}
+📦 Create Machine Response: {
+  "code": 201,
+  "status": true,
+  "message": "Machine created successfully",
+  "data": {
+    "id": "f3339b5fa6f948bcb2f2096487d48c34",
+    "name": "QA Machine yfF2vc",
+    "type": "raspi",
+    "area_id": "1b5095ea1f1e453e9baf382568f39106",
+    "area_name": null,
+    "ip": "59.65.132.119",
+    "port": "4117",
+    "status": null,
+    "created_at": "2025-12-11T11:05:16.017847794Z",
+    "updated_at": "2025-12-11T11:05:16.017847835Z",
+    "last_seen_at": null
+  }
+}
+📝 Machine ID: f3339b5fa6f948bcb2f2096487d48c34
+📝 Machine Name: QA Machine yfF2vc
+✅ Machine created successfully in 5128ms

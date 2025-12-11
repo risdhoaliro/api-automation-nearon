@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "Area name already exist",
+  "data": "Area name already exist"
+}

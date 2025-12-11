@@ -1,0 +1,8 @@
+📦 Create CCTV Response (Empty IP): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'ip' must be filled",
+  "data": "Field 'ip' must be filled"
+}
+📊 API Response - Status: false, Code: 400
+✅ Empty IP validation completed in 273ms

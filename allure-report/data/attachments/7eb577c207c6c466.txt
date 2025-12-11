@@ -1,7 +1,0 @@
-📦 Search Response (Invalid Token): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Invalid token search attempt completed in 3213ms

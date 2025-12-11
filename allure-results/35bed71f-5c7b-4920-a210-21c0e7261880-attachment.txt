@@ -1,0 +1,7 @@
+📦 Get Machines Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized get attempt completed in 279ms

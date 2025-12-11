@@ -1,0 +1,71 @@
+🚀 API Interceptor enabled for CCTV Management (Delete) API tests
+✅ Client token from cookie obtained
+📝 Area ID: 08932a4ac52c4f1a9ed3a461bdba1677
+📝 Machine ID: 526483dfb5704e20a8b8697152c3342b
+📝 Create CCTV Request: {
+  "machine_id": "526483dfb5704e20a8b8697152c3342b",
+  "name": "QA CCTV Person NoYP45",
+  "ip": "117.64.66.235",
+  "port": "8712",
+  "username": "admin",
+  "password": "password",
+  "channel": "QA Channel BR3I",
+  "oem": "448467dc-6b77-4e58-96c4-7c38fa93240e",
+  "cctv_brand_model_id": "448467dc-6b77-4e58-96c4-7c38fa93240e",
+  "ptz_channel": "7",
+  "module_ai": "people_detection",
+  "detection_confidence": 0.5,
+  "association_confidence": 0.5,
+  "is_ai_on_prem": true
+}
+📦 Create CCTV Response: {
+  "code": 201,
+  "status": true,
+  "message": "CCTV created successfully",
+  "data": {
+    "id": "8487e82e89e54d6fa31f588bf6211e70",
+    "node": null,
+    "machine": {
+      "id": "526483dfb5704e20a8b8697152c3342b",
+      "name": "QA Machine 8nKZ66",
+      "ip": "142.102.41.20",
+      "port": "2518"
+    },
+    "area": null,
+    "name": "QA CCTV Person NoYP45",
+    "ip": "117.64.66.235",
+    "rtsp_port": "8712",
+    "username": "admin",
+    "channel": "QA Channel BR3I",
+    "ptz_channel": "7",
+    "is_online": false,
+    "stream_url": null,
+    "stream_url_with_ai": null,
+    "created_at": "2025-12-11T11:04:01.118436Z",
+    "updated_at": "2025-12-11T11:04:01.118436Z",
+    "stream_status": "",
+    "oem": "448467dc-6b77-4e58-96c4-7c38fa93240e",
+    "device_tuya_id": null,
+    "required_ppe": null,
+    "module_ai": "people_detection",
+    "detection_confidence": 0.5,
+    "association_confidence": 0.5,
+    "is_ai_on_prem": true,
+    "cloud_machine_id": null,
+    "password": "password",
+    "cctv_brand_model_id": "",
+    "cctv_brand_model_name": "",
+    "cctv_brand_model_image": "",
+    "cctv_brand_model_zoom_capability": null,
+    "geofence_settings": null
+  }
+}
+✅ Created CCTV ID: 8487e82e89e54d6fa31f588bf6211e70
+🗑️ Deleting CCTV ID: 8487e82e89e54d6fa31f588bf6211e70
+📦 Delete CCTV Response: {
+  "code": 201,
+  "status": true,
+  "message": "CCTV deleted successfully",
+  "data": null
+}
+✅ CCTV deleted successfully in 5348ms

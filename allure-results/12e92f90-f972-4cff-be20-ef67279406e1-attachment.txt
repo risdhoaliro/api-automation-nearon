@@ -1,0 +1,12 @@
+📝 Create Area Request (Empty Name): {
+  "name": "",
+  "company_id": "dqkgefnsge"
+}
+📦 Create Area Response (Empty Name): {
+  "code": 400,
+  "status": false,
+  "message": "Field 'name' must be filled",
+  "data": "Field 'name' must be filled"
+}
+📊 API Response for empty name - Status: false, Code: 400, Message: Field 'name' must be filled
+✅ Empty name validation completed in 127ms
