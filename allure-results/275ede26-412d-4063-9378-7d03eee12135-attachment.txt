@@ -1,0 +1,8 @@
+📦 Edit Deployed Device Response (Empty Name): {
+  "code": 400,
+  "status": false,
+  "message": "Name is required, ",
+  "data": "Name is required, "
+}
+📊 API Response - Status: false, Code: 400
+✅ Empty name edit validation completed in 436ms

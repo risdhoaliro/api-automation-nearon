@@ -1,7 +1,0 @@
-📦 Create Machine Response (No Auth): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Unauthorized create attempt completed in 124ms

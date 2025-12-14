@@ -1,0 +1,23 @@
+🔍 Getting deployed nodes...
+✅ Found deployed node ID: e1947b0708f04ee6a121c5b634f2dfdd
+📝 Edit Deployed Device Request (Custom): {
+  "user_id": "faa3612729844c54b1506e2f7547261c",
+  "group_id": "b5482bef459148a8b0f74224ad761df3",
+  "project_id": "QA001",
+  "name": "QA Custom Edit Device",
+  "interval": 30,
+  "tolerance": 60,
+  "location_type": "static",
+  "location_name": "QA Custom Location",
+  "latitude": "-74.7212",
+  "longitude": "-32.6262",
+  "additional_info": []
+}
+📦 Edit Deployed Device Response: {
+  "code": 200,
+  "status": true,
+  "message": "Node updated successfully",
+  "data": null
+}
+⏱️ Updated Interval: 30s, Tolerance: 60s
+✅ Edit with custom settings completed in 377ms

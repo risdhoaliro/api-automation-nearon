@@ -1,7 +1,0 @@
-📦 Get Machines Response (Invalid Token): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Invalid token get attempt completed in 111ms

@@ -1,0 +1,25 @@
+📝 Deploy Device Request (Dynamic): {
+  "user_id": "faa3612729844c54b1506e2f7547261c",
+  "group_id": "b5482bef459148a8b0f74224ad761df3",
+  "project_id": "QA001",
+  "name": "QA Dynamic Location Device",
+  "description": "QA Description k69F",
+  "interval": 60,
+  "tolerance": 120,
+  "type": "node",
+  "location_type": "dynamic",
+  "location_name": "QA Location 0CuI",
+  "latitude": "89.945",
+  "longitude": "92.1075",
+  "fill_color": "#FFFFFF",
+  "stroke_color": "#FFFFFF",
+  "additional_info": []
+}
+📦 Deploy Device Response: {
+  "code": 404,
+  "status": false,
+  "message": "Node not found",
+  "data": "Node not found"
+}
+📍 Location Type: dynamic
+✅ Deploy device API completed in 674ms

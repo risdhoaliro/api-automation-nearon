@@ -1,7 +1,0 @@
-📦 Delete Area Response (Invalid Token): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Invalid token delete attempt completed in 5845ms

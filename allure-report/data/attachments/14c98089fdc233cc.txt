@@ -1,0 +1,7 @@
+📦 Get Undeployed Nodes Response (Invalid Token): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Invalid token get undeployed nodes attempt completed in 463ms

@@ -1,0 +1,26 @@
+📝 Deploy Device Request: {
+  "user_id": "faa3612729844c54b1506e2f7547261c",
+  "group_id": "b5482bef459148a8b0f74224ad761df3",
+  "project_id": "QA001",
+  "name": "QA Automation Device j8gFKq",
+  "description": "QA Automation Description 3Lvn",
+  "interval": 60,
+  "tolerance": 120,
+  "type": "node",
+  "location_type": "static",
+  "location_name": "QA Location 6i3c",
+  "latitude": "31.3394",
+  "longitude": "-148.7126",
+  "fill_color": "#FFFFFF",
+  "stroke_color": "#FFFFFF",
+  "additional_info": []
+}
+📦 Deploy Device Response: {
+  "code": 404,
+  "status": false,
+  "message": "Node not found",
+  "data": "Node not found"
+}
+📝 Device Name: QA Automation Device j8gFKq
+📍 Location: QA Location 6i3c
+✅ Deploy device API completed in 528ms

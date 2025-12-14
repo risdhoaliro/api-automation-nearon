@@ -1,0 +1,28 @@
+🚀 API Interceptor enabled for Edit Deployed Device API tests
+✅ Client token from cookie obtained
+🔍 Getting deployed nodes...
+✅ Found 5 deployed nodes
+📝 Will use node ID: c2751db57c2f4ee79ce1501d657873c1
+📝 Node Name: QA Automation Device uNsVML
+📝 Edit Deployed Device Request: {
+  "user_id": "faa3612729844c54b1506e2f7547261c",
+  "group_id": "b5482bef459148a8b0f74224ad761df3",
+  "project_id": "QA001",
+  "name": "QA Updated Device rF7qBx",
+  "interval": 60,
+  "tolerance": 120,
+  "location_type": "static",
+  "location_name": "QA Updated Location ht4t",
+  "latitude": "61.3478",
+  "longitude": "13.5746",
+  "additional_info": []
+}
+📦 Edit Deployed Device Response: {
+  "code": 200,
+  "status": true,
+  "message": "Node updated successfully",
+  "data": null
+}
+📝 Updated Device Name: QA Updated Device rF7qBx
+📍 Updated Location: QA Updated Location ht4t
+✅ Edit deployed device completed in 366ms

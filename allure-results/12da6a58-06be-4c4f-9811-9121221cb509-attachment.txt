@@ -1,8 +1,0 @@
-📦 Delete Area Response (Invalid ID): {
-  "code": 500,
-  "status": false,
-  "message": "no rows in result set",
-  "data": "no rows in result set"
-}
-📊 API Response for invalid area ID - Status: false, Code: 500
-✅ Invalid area ID delete attempt completed in 5115ms

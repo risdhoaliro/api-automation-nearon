@@ -1,8 +1,0 @@
-📦 Update CCTV Response (Invalid ID): {
-  "code": 404,
-  "status": false,
-  "message": "CCTV not found",
-  "data": "CCTV not found"
-}
-📊 API Response - Status: false, Code: 404
-✅ Invalid CCTV ID update completed in 378ms
