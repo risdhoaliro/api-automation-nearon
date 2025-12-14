@@ -1,0 +1,75 @@
+🚀 API Interceptor enabled for Delete Project API tests
+✅ Client token from cookie obtained
+📝 Create Project Request: {
+  "code": "RXMC9",
+  "name": "QA Api Sensor h5xR",
+  "description": "QA Automation Test Project YfQdX4"
+}
+📦 Create Project Response: {
+  "code": 201,
+  "status": true,
+  "message": "Project created successfully",
+  "data": {
+    "id": "RXMC9",
+    "name": "QA Api Sensor h5xR",
+    "description": "QA Automation Test Project YfQdX4",
+    "company": {
+      "id": "dqkgefnsge",
+      "name": "PT QA API Automation Client"
+    },
+    "total_group": 0,
+    "total_node": 0,
+    "total_actuator": 0,
+    "total_sensor": 0,
+    "groups": null,
+    "alerts": {
+      "error": 0,
+      "buffer": 0,
+      "out_of_threshold": 0
+    },
+    "created_at": "2025-12-14T18:56:57.505164Z",
+    "updated_at": "2025-12-14T18:56:57.505164Z"
+  }
+}
+✅ Project created: RXMC9
+📝 Project Name: QA Api Sensor h5xR
+📝 Edit Project Request: {
+  "name": "QA Api Sensor Updated CXMb",
+  "description": "QA Updated Description vOyZf0"
+}
+📦 Edit Project Response: {
+  "code": 200,
+  "status": true,
+  "message": "Project updated successfully",
+  "data": {
+    "id": "RXMC9",
+    "name": "QA Api Sensor Updated CXMb",
+    "description": "QA Updated Description vOyZf0",
+    "company": {
+      "id": "dqkgefnsge",
+      "name": "PT QA API Automation Client"
+    },
+    "total_group": 0,
+    "total_node": 0,
+    "total_actuator": 0,
+    "total_sensor": 0,
+    "groups": null,
+    "alerts": {
+      "error": 0,
+      "buffer": 0,
+      "out_of_threshold": 0
+    },
+    "created_at": "2025-12-14T18:56:57.505164Z",
+    "updated_at": "2025-12-14T18:56:57.684164Z"
+  }
+}
+✅ Project edited: RXMC9
+📝 Updated Name: QA Api Sensor Updated CXMb
+📦 Delete Project Response: {
+  "code": 200,
+  "status": true,
+  "message": "Project deleted successfully",
+  "data": null
+}
+✅ Project deleted successfully: RXMC9
+✅ Delete completed in 390ms

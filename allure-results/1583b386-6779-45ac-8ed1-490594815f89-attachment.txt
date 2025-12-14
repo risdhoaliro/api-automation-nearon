@@ -1,0 +1,7 @@
+📦 Get Undeployed Nodes Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized get undeployed nodes attempt completed in 144ms

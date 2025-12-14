@@ -1,0 +1,8 @@
+📦 Deploy Device Response (Negative Interval): {
+  "code": 400,
+  "status": false,
+  "message": "Interval must be at least 30, ",
+  "data": "Interval must be at least 30, "
+}
+📊 API Response - Status: false, Code: 400
+✅ Negative interval validation completed in 152ms

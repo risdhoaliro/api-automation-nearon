@@ -1,0 +1,46 @@
+🚀 API Interceptor enabled for Edit Group API tests
+✅ Client token from cookie obtained
+📝 Creating project for edit group tests: {
+  "code": "TWTMR",
+  "name": "QA Api Sensor 6cbG",
+  "description": "QA Automation Test Project EhzpZR"
+}
+✅ Created project for edit group tests: TWTMR
+📝 Creating group for edit tests: {
+  "user_id": "faa3612729844c54b1506e2f7547261c",
+  "name": "QA Group API vXRT",
+  "description": "QA Automation Test Group zqSP5q"
+}
+✅ Created group for edit tests: 56772bd1cd3e41189aad9efd5f79946e
+📝 Edit Group Request: {
+  "name": "QA Group Updated gV9i",
+  "description": "QA Updated Group Description jGELDZ"
+}
+📦 Edit Group Response: {
+  "code": 200,
+  "status": true,
+  "message": "Group updated successfully",
+  "data": {
+    "id": "56772bd1cd3e41189aad9efd5f79946e",
+    "project": {
+      "id": "TWTMR",
+      "name": "QA Api Sensor 6cbG"
+    },
+    "name": "QA Group Updated gV9i",
+    "description": "QA Updated Group Description jGELDZ",
+    "created_at": "2025-12-14T18:57:02.1529Z",
+    "updated_at": "2025-12-14T18:57:02.315711Z",
+    "total_sensors": 0,
+    "total_actuators": 0,
+    "alerts": {
+      "error": 0,
+      "buffer": 0,
+      "out_of_threshold": 0
+    }
+  }
+}
+✅ Group edited successfully!
+📝 Group ID: 56772bd1cd3e41189aad9efd5f79946e
+📝 Updated Name: QA Group Updated gV9i
+📝 Updated Description: QA Updated Group Description jGELDZ
+✅ Edit completed in 158ms

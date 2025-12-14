@@ -1,0 +1,7 @@
+📦 Delete Device Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized delete attempt completed in 159ms

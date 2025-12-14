@@ -1,0 +1,10 @@
+✅ Created project for invalid group ID test: 2MAOY
+📦 Delete Group Response (Invalid Group ID): {
+  "code": 404,
+  "status": false,
+  "message": "Group not found",
+  "data": "Group not found"
+}
+📊 API Response - Status: false, Code: 404
+✅ Invalid group ID delete attempt completed in 144ms
+✅ Cleaned up project: 2MAOY

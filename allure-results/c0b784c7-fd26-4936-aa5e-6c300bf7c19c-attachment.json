@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "Interval must be at least 30, ",
+  "data": "Interval must be at least 30, "
+}

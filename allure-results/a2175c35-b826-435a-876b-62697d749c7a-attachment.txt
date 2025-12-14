@@ -1,0 +1,15 @@
+🚀 API Interceptor enabled for Get Undeployed Nodes API tests
+✅ Client token from cookie obtained
+🔍 Getting undeployed nodes for model ID: 992da324-299d-4323-94b2-c10f65390110
+📦 Get Undeployed Nodes Response: {
+  "code": 200,
+  "status": true,
+  "message": "Undeployed node device found successfully",
+  "page": 1,
+  "count": 0,
+  "total": 0,
+  "data": []
+}
+📊 Page: 1, Count: 0, Total: 0
+📊 Undeployed nodes in this page: 0
+✅ Get undeployed nodes completed in 162ms

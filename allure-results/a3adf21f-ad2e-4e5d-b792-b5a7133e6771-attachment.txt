@@ -1,0 +1,121 @@
+📝 Get Projects Params (Custom Pagination): {
+  "page": 1,
+  "limit": 5,
+  "companyId": "dqkgefnsge"
+}
+📦 Get Projects Response: {
+  "code": 200,
+  "status": true,
+  "message": "Projects found successfully",
+  "page": 1,
+  "count": 5,
+  "total": 10,
+  "data": [
+    {
+      "id": "LMR",
+      "name": "QA Api Sensor Ptdv",
+      "description": "Confugo patrocinor aggredior aestus cur.",
+      "company": {
+        "id": "dqkgefnsge",
+        "name": "PT QA API Automation Client"
+      },
+      "total_group": 0,
+      "total_node": 0,
+      "total_actuator": 0,
+      "total_sensor": 0,
+      "groups": null,
+      "alerts": {
+        "error": 0,
+        "buffer": 0,
+        "out_of_threshold": 0
+      },
+      "created_at": "2025-12-14T18:56:51.543681Z",
+      "updated_at": "2025-12-14T18:56:51.543681Z"
+    },
+    {
+      "id": "UYO3ED7DGO2EORISSUGQHOLA2YZEM3SSBIQ01WVCFG1GCGSPWQVJQHDOMPGYVDY5A5I2DAQLNI1A8KQMPZ1WEZCFCGPCRH7IPJAZ",
+      "name": "QA Api Sensor fqyl",
+      "description": "Usque dolorum audio reiciendis terra cognomen aiunt celer vigor aliquam.",
+      "company": {
+        "id": "dqkgefnsge",
+        "name": "PT QA API Automation Client"
+      },
+      "total_group": 0,
+      "total_node": 0,
+      "total_actuator": 0,
+      "total_sensor": 0,
+      "groups": null,
+      "alerts": {
+        "error": 0,
+        "buffer": 0,
+        "out_of_threshold": 0
+      },
+      "created_at": "2025-12-14T18:56:50.970189Z",
+      "updated_at": "2025-12-14T18:56:50.970189Z"
+    },
+    {
+      "id": "+/%^-",
+      "name": "QA Api Sensor WBNy",
+      "description": "Alii tondeo calamitas torqueo.",
+      "company": {
+        "id": "dqkgefnsge",
+        "name": "PT QA API Automation Client"
+      },
+      "total_group": 0,
+      "total_node": 0,
+      "total_actuator": 0,
+      "total_sensor": 0,
+      "groups": null,
+      "alerts": {
+        "error": 0,
+        "buffer": 0,
+        "out_of_threshold": 0
+      },
+      "created_at": "2025-12-14T18:56:50.783793Z",
+      "updated_at": "2025-12-14T18:56:50.783793Z"
+    },
+    {
+      "id": "QA2",
+      "name": "QA Api Sensor DEcM",
+      "description": "Avaritia clam cunctatio vis quae aer.",
+      "company": {
+        "id": "dqkgefnsge",
+        "name": "PT QA API Automation Client"
+      },
+      "total_group": 0,
+      "total_node": 0,
+      "total_actuator": 0,
+      "total_sensor": 0,
+      "groups": null,
+      "alerts": {
+        "error": 0,
+        "buffer": 0,
+        "out_of_threshold": 0
+      },
+      "created_at": "2025-12-14T18:28:06.791722Z",
+      "updated_at": "2025-12-14T18:28:06.791723Z"
+    },
+    {
+      "id": "QMQRPORMPM20YHLERCAHO4QBWVIVUFN1CNWZOSCRB1KQTH3XMC4NDRRDDQATE1YABEG2FJPVUTOHVGHQZAOS0CO53XCOWZB0BTTC",
+      "name": "QA Api Sensor 3ANj",
+      "description": "Beatae contego unde pariatur temeritas.",
+      "company": {
+        "id": "dqkgefnsge",
+        "name": "PT QA API Automation Client"
+      },
+      "total_group": 0,
+      "total_node": 0,
+      "total_actuator": 0,
+      "total_sensor": 0,
+      "groups": null,
+      "alerts": {
+        "error": 0,
+        "buffer": 0,
+        "out_of_threshold": 0
+      },
+      "created_at": "2025-12-14T18:28:05.873397Z",
+      "updated_at": "2025-12-14T18:28:05.873397Z"
+    }
+  ]
+}
+✅ Custom pagination completed in 431ms

@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "Sensor updated successfully",
+  "data": {
+    "id": "d89cfc165dcb400eb85e88c2ec7e6fa6",
+    "custom_id": "QACUST",
+    "node_id": {
+      "id": "ffd1168bfa9f41f08300bef1c0b34778",
+      "name": "QA Custom Edit Device"
+    },
+    "name": "QA Custom Sensor Name",
+    "description": "QA Custom Sensor Description",
+    "datatype": "integer",
+    "unit": {
+      "id": "d8aac6484877402e9b312ae43a1366e8",
+      "name": "%"
+    },
+    "realtime_status": true,
+    "notification": true,
+    "notification_duration": 120,
+    "alarm": false,
+    "alarm_type": null,
+    "value": null,
+    "value_timestamp": null,
+    "status": null,
+    "highest_value": 0,
+    "lowest_value": 0,
+    "last_value": null,
+    "max_value": null,
+    "min_value": null,
+    "average_value": null,
+    "sla": false,
+    "receiver_method": {
+      "id": 1,
+      "name": "MQTT/HTTP"
+    },
+    "snmp": null,
+    "websocket_sensor_channel": "ws/nearon-dev/nodes/ffd1168bfa9f41f08300bef1c0b34778/sensors/QACUST",
+    "category": {
+      "id": "e4d6aab9df4747cd99419987af5b43e4",
+      "name": "Environment",
+      "icon": "https://dev-assets.synapsis.id/nearon/category/20251210062152054.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20251214%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20251214T185709Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=09c90efe7941b7e0b406fa5904fa901febee52b15be744910ce0217704f64afe"
+    },
+    "created_at": "2025-12-12T04:00:02.094904Z",
+    "updated_at": "2025-12-14T18:57:09.824383Z",
+    "last_cached_at": "1970-01-01T00:00:00Z",
+    "interval": 0
+  }
+}

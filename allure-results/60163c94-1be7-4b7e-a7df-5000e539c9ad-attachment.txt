@@ -1,0 +1,38 @@
+🚀 API Interceptor enabled for Sensor Monitoring API tests
+🔗 Connecting to: https://dev-nearon.synapsis.id/api/auth/login
+✅ Client token from cookie obtained
+📝 Create Project Request: {
+  "code": "LKFSX",
+  "name": "QA Api Sensor FBBd",
+  "description": "QA Automation Test Project BbcuJT"
+}
+📦 Create Project Response: {
+  "code": 201,
+  "status": true,
+  "message": "Project created successfully",
+  "data": {
+    "id": "LKFSX",
+    "name": "QA Api Sensor FBBd",
+    "description": "QA Automation Test Project BbcuJT",
+    "company": {
+      "id": "dqkgefnsge",
+      "name": "PT QA API Automation Client"
+    },
+    "total_group": 0,
+    "total_node": 0,
+    "total_actuator": 0,
+    "total_sensor": 0,
+    "groups": null,
+    "alerts": {
+      "error": 0,
+      "buffer": 0,
+      "out_of_threshold": 0
+    },
+    "created_at": "2025-12-14T18:56:48.679123Z",
+    "updated_at": "2025-12-14T18:56:48.679123Z"
+  }
+}
+✅ Project created successfully!
+📝 Project ID: LKFSX
+📝 Project Name: QA Api Sensor FBBd
+✅ Create completed in 214ms

@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"0029090c617375de055b4ddff71ee7e3","name":"sensorMonitoring.test.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":59,"unknown":0,"total":59}},{"uid":"d01f687ef0ad32356594e3c055b53c0c","name":"deviceManagement.test.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":35,"unknown":0,"total":35}}]}
