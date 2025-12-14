@@ -1,7 +1,0 @@
-📦 Delete Device Response (Invalid Token): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Invalid token delete attempt completed in 368ms

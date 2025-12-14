@@ -1,7 +1,0 @@
-📦 Get Deployed Devices Response (Invalid Token): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Invalid token get deployed devices attempt completed in 1911ms

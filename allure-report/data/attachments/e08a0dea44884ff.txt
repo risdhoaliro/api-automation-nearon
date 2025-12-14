@@ -1,9 +1,0 @@
-🔍 Getting undeployed nodes for invalid model ID: invalid-model-id-12345
-📦 Get Undeployed Nodes Response (Invalid Model ID): {
-  "code": 500,
-  "status": false,
-  "message": "Failed to count all undeployed node by model id",
-  "data": "Failed to count all undeployed node by model id"
-}
-📊 API Response - Status: false, Code: 500
-✅ Invalid model ID get undeployed nodes completed in 369ms

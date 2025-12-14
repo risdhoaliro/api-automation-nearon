@@ -1,8 +1,0 @@
-📦 Deploy Device Response (Empty Name): {
-  "code": 400,
-  "status": false,
-  "message": "Name is required, ",
-  "data": "Name is required, "
-}
-📊 API Response - Status: false, Code: 400
-✅ Empty name validation completed in 365ms
