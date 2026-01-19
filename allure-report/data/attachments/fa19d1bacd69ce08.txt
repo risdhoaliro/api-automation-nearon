@@ -1,7 +1,0 @@
-📦 Get Groups Response (No Auth): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Unauthorized get attempt completed in 341ms

@@ -1,0 +1,7 @@
+📦 Update Output Data Config Response (Invalid Output ID): {
+  "code": 500,
+  "status": false,
+  "message": "ERROR: invalid input syntax for type uuid: \"invalid-output-id-12345\" (SQLSTATE 22P02)",
+  "data": "ERROR: invalid input syntax for type uuid: \"invalid-output-id-12345\" (SQLSTATE 22P02)"
+}
+✅ Invalid output ID validation completed in 221ms

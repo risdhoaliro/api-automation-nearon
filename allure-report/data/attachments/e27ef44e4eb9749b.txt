@@ -1,8 +1,0 @@
-📦 Deploy Device Response (Empty Group ID): {
-  "code": 400,
-  "status": false,
-  "message": "GroupID is required, ",
-  "data": "GroupID is required, "
-}
-📊 API Response - Status: false, Code: 400
-✅ Empty group_id validation completed in 168ms

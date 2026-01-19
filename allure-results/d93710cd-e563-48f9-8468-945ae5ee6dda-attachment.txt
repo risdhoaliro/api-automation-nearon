@@ -1,0 +1,16 @@
+📝 Update Output Data Config Request: {
+  "name": "QA Updated Output YpJa0g",
+  "custom_id": "UPDPOH",
+  "category_id": "a4256953c605457cb40b7c4fc512dd03",
+  "unit_id": "69c716a0d5a5407794ea9c2233a8a33b",
+  "value_capability": true,
+  "min_capability": 10,
+  "max_capability": 200
+}
+📦 Update Output Data Config Response: {
+  "code": 200,
+  "status": true,
+  "message": "Sensor output updated successfully",
+  "data": null
+}
+✅ Output data config updated with different min/max in 194ms

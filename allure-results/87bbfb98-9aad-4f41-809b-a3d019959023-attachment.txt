@@ -1,0 +1,11 @@
+📦 Search Sensor Catalog Response: {
+  "code": 200,
+  "status": true,
+  "message": "Sensor catalogs found successfully",
+  "page": 1,
+  "count": 0,
+  "total": 0,
+  "data": null
+}
+📊 No results found as expected
+✅ Non-existent search completed in 195ms

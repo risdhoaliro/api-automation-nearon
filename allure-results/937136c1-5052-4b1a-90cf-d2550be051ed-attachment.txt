@@ -1,8 +1,0 @@
-📦 Get Projects Response (Invalid Company ID): {
-  "code": 403,
-  "status": false,
-  "message": "Forbidden access",
-  "data": "Forbidden access"
-}
-📊 API Response - Status: false, Code: 403
-✅ Invalid company ID get attempt completed in 161ms

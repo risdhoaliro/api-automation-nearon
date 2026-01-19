@@ -1,8 +1,0 @@
-📦 Create Group Response (Invalid Project ID): {
-  "code": 500,
-  "status": false,
-  "message": "runtime error: invalid memory address or nil pointer dereference",
-  "data": null
-}
-📊 API Response - Status: false, Code: 500
-✅ Invalid project ID validation completed in 134ms

@@ -1,8 +1,0 @@
-📦 Edit Sensor Response (Invalid Sensor ID): {
-  "code": 404,
-  "status": false,
-  "message": "Sensor not found",
-  "data": "Sensor not found"
-}
-📊 API Response - Status: false, Code: 404
-✅ Invalid sensor ID validation completed in 145ms

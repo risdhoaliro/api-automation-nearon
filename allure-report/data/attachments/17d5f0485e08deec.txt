@@ -1,9 +1,0 @@
-🗑️ Attempting to delete invalid node ID: invalid-node-id-12345
-📦 Delete Device Response (Invalid Node ID): {
-  "code": 404,
-  "status": false,
-  "message": "Node not found",
-  "data": "Node not found"
-}
-📊 API Response - Status: false, Code: 404
-✅ Invalid node ID delete completed in 183ms

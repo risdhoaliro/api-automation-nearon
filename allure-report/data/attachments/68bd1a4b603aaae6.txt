@@ -1,0 +1,9 @@
+🚀 API Interceptor enabled for Search Sensor Catalog Negative API tests
+✅ Admin token from cookie obtained
+📦 Search Sensor Catalog Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized search attempt completed in 194ms

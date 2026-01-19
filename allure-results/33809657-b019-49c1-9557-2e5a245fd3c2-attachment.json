@@ -1,0 +1,191 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "Sensor catalogs found successfully",
+  "page": 1,
+  "count": 10,
+  "total": 1,
+  "data": [
+    {
+      "id": "0137a7fa-3130-4943-8905-976b517c7733",
+      "name": "QA Negative Test 1768819741454",
+      "description": "QA Automation Description Quos adinventitias commemoro suscipio quaerat suspendo incidunt aperio comminor sulum.",
+      "brand": "QA Brand Williamson",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119104901539.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6333afe6d77fe7c2b931b51151da407e6fd6d48d0572951fbf15288d120422b8",
+      "created_at": "2026-01-19T10:49:01.664082Z",
+      "updated_at": "2026-01-19T10:49:01.664082Z"
+    },
+    {
+      "id": "01c4654c-b16e-4537-83f9-f4b941eee6e2",
+      "name": "QA Output Config Test 1768819140373",
+      "description": "QA Automation Description Succurro auxilium campana.",
+      "brand": "QA Brand Schowalter",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": [
+        {
+          "id": "2a05d60f-843f-4b3c-b98f-9460c5f1f501",
+          "name": "QA Output Sensor FMpDjp",
+          "custom_id": "QALCBX",
+          "unit": "%",
+          "category": "Environment",
+          "category_icon": "https://dev-assets.synapsis.id/nearon/category/20260115041139155.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6b2bc233d5649ae2bb4db5b3b6e5abacdb1efb4cdc8846ca0ea45c4424ef7981",
+          "min_value_capability": 9,
+          "max_value_capability": 62
+        }
+      ],
+      "categories": [
+        "Environment"
+      ],
+      "sensor_names": [
+        "QA Output Sensor FMpDjp"
+      ],
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119103900503.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=14cfd475195f61b3eb5e877bef6327d35c6f253af25539e9e8188042844d2d9e",
+      "created_at": "2026-01-19T10:39:00.636208Z",
+      "updated_at": "2026-01-19T10:39:00.636209Z"
+    },
+    {
+      "id": "03d53f04-a2de-4a5b-be76-57e84e7490e5",
+      "name": "QA Catalog Satu",
+      "description": "tets",
+      "brand": "QA Catalog Brand",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": [
+        {
+          "id": "9e29855c-69a2-496b-9f70-1b65347abff0",
+          "name": "QA Output Sensor Satu",
+          "custom_id": "QASATU",
+          "unit": "%",
+          "category": "Environment",
+          "category_icon": "https://dev-assets.synapsis.id/nearon/category/20260115041139155.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6b2bc233d5649ae2bb4db5b3b6e5abacdb1efb4cdc8846ca0ea45c4424ef7981",
+          "min_value_capability": 50,
+          "max_value_capability": 100
+        },
+        {
+          "id": "b0f40e02-2500-4bb9-9aa4-4ddee7e9619e",
+          "name": "bjlbk",
+          "custom_id": "bikh",
+          "unit": "%",
+          "category": "Environment",
+          "category_icon": "https://dev-assets.synapsis.id/nearon/category/20260115041139155.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6b2bc233d5649ae2bb4db5b3b6e5abacdb1efb4cdc8846ca0ea45c4424ef7981",
+          "min_value_capability": 0,
+          "max_value_capability": 0
+        }
+      ],
+      "categories": [
+        "Environment"
+      ],
+      "sensor_names": [
+        "QA Output Sensor Satu",
+        "bjlbk"
+      ],
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119063112989.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8a1bc4863eb9293c46935fd33e9716a7ef0d0ae17414466cf3508552641ac61c",
+      "created_at": "2026-01-19T06:31:13.211657Z",
+      "updated_at": "2026-01-19T06:31:13.211657Z"
+    },
+    {
+      "id": "0a813294-c6b3-4e9c-a8f3-dea60adcbafd",
+      "name": "QA Updated Sensor OdvHbE",
+      "description": "QA Updated Description Condico caries currus deputo balbus arbitro desipio deporto eum tunc.",
+      "brand": "QA Custom Updated Brand",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119095949904.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=edb6042ddd75de81245b98c0962b542ab89d6a00de80fc769c6333e59fc96324",
+      "created_at": "2026-01-19T09:59:51.22847Z",
+      "updated_at": "2026-01-19T09:59:51.476878Z"
+    },
+    {
+      "id": "0aeef75f-cb81-42bc-affe-6be3bd434762",
+      "name": "QA Automation Sensor 6JhbQf",
+      "description": "QA Automation Description Similique campana curis modi synagoga creptio trans.",
+      "brand": "QA Brand Larkin, Ku",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119081634765.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8ba80cbaad1ed2c0850628503979fade6d3d406a72d0bf9e2217e81435c1af24",
+      "created_at": "2026-01-19T08:16:34.934955Z",
+      "updated_at": "2026-01-19T08:16:34.934955Z"
+    },
+    {
+      "id": "0c3f74e9-0026-455c-a081-c71d545f34df",
+      "name": "QA CustomName Test 1768816544288",
+      "description": "QA Automation Description Adfectus deleo subiungo.",
+      "brand": "QA Brand Altenwerth",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119095544024.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=efea86a496b74145089d67bdf7b84596e6ae5165e33fd1172a20a16e3086e834",
+      "created_at": "2026-01-19T09:55:44.539509Z",
+      "updated_at": "2026-01-19T09:55:44.539509Z"
+    },
+    {
+      "id": "0ce69976-bc4d-46e6-aad2-c0acb4aa1d18",
+      "name": "corpus cenaculum spoliatio virtus comminor cernuus abscido adduco subvenio cubitum vomer censura cruentus aegrus accommodo circumvenio conforto maiores thesaurus vorax usitas caute solum id eius inflammatio talis allatus dapifer vallum architecto abeo sol aspicio acies spero verus vetus cuppedia cotidie arca consequatur articulus ut praesentium delectus cognomen stips fugiat atqui aptus vis acer cursus vulgo velit voluptates vere cetera combibo cum tertius comptus vox arx appositus abeo attero debitis absorbeo ambulo suus corrumpo thesaurus fugit abundans angelus sub asporto tui illo paulatim adipiscor solio cervus abscido vilis pauci desolo celebrer tabula cito denuncio audeo deputo beatae acer volutabrum aestus valens",
+      "description": "QA Automation Description",
+      "brand": "QA Brand",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119112140245.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=552860a1a4422c6f047e9a1f86aa2c443b10a0753c2303df1e04707279948b46",
+      "created_at": "2026-01-19T11:21:42.134994Z",
+      "updated_at": "2026-01-19T11:21:42.134994Z"
+    },
+    {
+      "id": "0cf3061d-18cc-4c32-b640-ed0e71a6e84b",
+      "name": "QA Custom Updated Name 1768821705603",
+      "description": "QA Updated Description Canis verbum aptus tabella vespillo arcesso compono optio allatus tendo.",
+      "brand": "QA Updated Brand Bahringer ",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119112143368.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a88d129c5b1f1563dc7b6ce4e2ff240ecc4a37392ccae1ab81989b1268f670a8",
+      "created_at": "2026-01-19T11:21:44.255543Z",
+      "updated_at": "2026-01-19T11:21:45.841245Z"
+    },
+    {
+      "id": "0e56ee0d-37f7-4ee0-a4b4-a3b4c1bf2df2",
+      "name": "QA SearchUpdate Updated 1768821714895",
+      "description": "QA Updated Description Vergo ab venustas culpa.",
+      "brand": "QA Updated Brand Wunsch Inc",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119112154523.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9fd81d57eec798e79ca21ba0e015210955381b96d0fc9cf64e27364efac2db68",
+      "created_at": "2026-01-19T11:21:55.135011Z",
+      "updated_at": "2026-01-19T11:21:55.790719Z"
+    },
+    {
+      "id": "0f721203-98fe-4617-bf6e-82640e5554ec",
+      "name": "QA Updated Sensor 3LjFcW",
+      "description": "QA Updated Description Sonitus volva claudeo.",
+      "brand": "QA Updated Brand Schmidt Gr",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119111220194.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112156Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4a81b4b9bdfd717a10cd64212a1cc26f9d0d5178be26556cf47a360ae8bb6865",
+      "created_at": "2026-01-19T11:12:20.356595Z",
+      "updated_at": "2026-01-19T11:12:20.650575Z"
+    }
+  ]
+}

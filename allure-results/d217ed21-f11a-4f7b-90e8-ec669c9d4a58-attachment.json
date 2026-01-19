@@ -1,6 +1,0 @@
-{
-  "code": 500,
-  "status": false,
-  "message": "runtime error: invalid memory address or nil pointer dereference",
-  "data": null
-}

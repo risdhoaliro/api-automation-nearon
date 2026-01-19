@@ -1,6 +1,0 @@
-🚀 API Interceptor enabled for Device Management API tests
-🔗 Connecting to: https://dev-nearon.synapsis.id/api/auth/login
-✅ Client token from cookie obtained
-🔍 Getting undeployed nodes for model ID: 992da324-299d-4323-94b2-c10f65390110
-⚠️ No undeployed nodes available - skipping deploy test
-⏭️ Skipping deploy step - no undeployed node available

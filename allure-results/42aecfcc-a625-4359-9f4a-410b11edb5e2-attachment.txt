@@ -1,0 +1,7 @@
+📦 Update Sensor Catalog Response (Empty Protocol ID): {
+  "code": 400,
+  "status": false,
+  "message": "ProtocolID is required, ",
+  "data": "ProtocolID is required, "
+}
+✅ Empty protocol ID update validation completed in 225ms

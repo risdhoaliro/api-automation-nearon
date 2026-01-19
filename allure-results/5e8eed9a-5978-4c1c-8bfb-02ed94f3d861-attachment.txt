@@ -1,0 +1,11 @@
+🚀 API Interceptor enabled for Update Sensor Catalog Negative API tests
+✅ Admin token from cookie obtained
+📦 Shared Image URL: https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119112151392.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112151Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=840c95c3bdc7f019cbdb3fb7e47c746975836327534795a348b2b2cab3b611f5
+📝 Created Catalog ID for negative tests: f0673d65-f533-4347-933b-1796c11a0ef0
+📦 Update Sensor Catalog Response (No Auth): {
+  "code": 401,
+  "status": false,
+  "message": "unauthorized",
+  "data": null
+}
+✅ Unauthorized update attempt completed in 197ms

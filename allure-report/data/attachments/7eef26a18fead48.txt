@@ -1,0 +1,58 @@
+📝 Created sensor catalog with name: QA Multi Output Test 1768821719039
+📦 Search Response: {
+  "code": 200,
+  "status": true,
+  "message": "Sensor catalogs found successfully",
+  "page": 1,
+  "count": 1,
+  "total": 1,
+  "data": [
+    {
+      "id": "84e335c2-e8d8-4f6a-ab68-5d316144dd41",
+      "name": "QA Multi Output Test 1768821719039",
+      "description": "QA Automation Description Caveo tyrannus peccatus voluptas cogito.",
+      "brand": "QA Brand Cassin - J",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119112158458.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112159Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b1d9c2ab1a472f2579898e05058b5054c7a29c04e37ffb2c37fea1141da30761",
+      "created_at": "2026-01-19T11:21:59.278259Z",
+      "updated_at": "2026-01-19T11:21:59.278259Z"
+    }
+  ]
+}
+📝 Found Catalog ID: 84e335c2-e8d8-4f6a-ab68-5d316144dd41
+📝 Create Output Data Config Request: {
+  "name": "QA Output Sensor LjfzJu",
+  "custom_id": "QAGXYH",
+  "category_id": "a4256953c605457cb40b7c4fc512dd03",
+  "unit_id": "69c716a0d5a5407794ea9c2233a8a33b",
+  "value_capability": true,
+  "min_capability": 10,
+  "max_capability": 70
+}
+📦 Create Output Data Config Response: {
+  "code": 200,
+  "status": true,
+  "message": "Sensor catalog sensor inserted successfully",
+  "data": null
+}
+✅ First output data config created in 185ms
+📝 Create Output Data Config Request: {
+  "name": "QA Output Sensor AjLijN",
+  "custom_id": "QARFSC",
+  "category_id": "a4256953c605457cb40b7c4fc512dd03",
+  "unit_id": "69c716a0d5a5407794ea9c2233a8a33b",
+  "value_capability": true,
+  "min_capability": 41,
+  "max_capability": 81
+}
+📦 Create Output Data Config Response: {
+  "code": 200,
+  "status": true,
+  "message": "Sensor catalog sensor inserted successfully",
+  "data": null
+}
+✅ Second output data config created in 209ms

@@ -1,0 +1,8 @@
+📦 Create Sensor Catalog Response (Empty Brand): {
+  "code": 400,
+  "status": false,
+  "message": "Brand is required, ",
+  "data": "Brand is required, "
+}
+📊 API Response - Status: false, Code: 400
+✅ Empty brand validation completed in 193ms

@@ -1,8 +1,0 @@
-📦 Create Project Response (Empty Code): {
-  "code": 400,
-  "status": false,
-  "message": "Field 'code' must be filled",
-  "data": "Field 'code' must be filled"
-}
-📊 API Response - Status: false, Code: 400
-✅ Empty code validation completed in 155ms

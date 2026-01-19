@@ -1,0 +1,6 @@
+{
+  "code": 400,
+  "status": false,
+  "message": "sensor catalog QA Sensor'; DROP TABLE sensors; -- already exists",
+  "data": "sensor catalog QA Sensor'; DROP TABLE sensors; -- already exists"
+}

@@ -1,0 +1,7 @@
+📦 Create Output Data Config Response (Empty Category ID): {
+  "code": 400,
+  "status": false,
+  "message": "CategoryID is required, ",
+  "data": "CategoryID is required, "
+}
+✅ Empty category_id validation completed in 174ms

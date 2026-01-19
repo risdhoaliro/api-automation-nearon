@@ -1,0 +1,43 @@
+🚀 API Interceptor enabled for Search Sensor Catalog API tests
+✅ Admin token from cookie obtained
+📦 Shared Image URL: https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119112154523.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112154Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7ccd181c6e601553f0373ee48af79c14ef8805badd616b507c7406736919fc5d
+📝 Create Sensor Catalog Request: {
+  "name": "QA Search Test 1768821714499",
+  "description": "QA Automation Description Bonus tubineus benigne timidus amor.",
+  "brand": "QA Brand Kozey, Mar",
+  "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+  "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119112154523.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112154Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7ccd181c6e601553f0373ee48af79c14ef8805badd616b507c7406736919fc5d"
+}
+📦 Create Sensor Catalog Response: {
+  "code": 201,
+  "status": true,
+  "message": "Sensor catalog created successfully",
+  "data": null
+}
+✅ Sensor catalog created successfully in 184ms
+📦 Search Sensor Catalog Response: {
+  "code": 200,
+  "status": true,
+  "message": "Sensor catalogs found successfully",
+  "page": 1,
+  "count": 1,
+  "total": 1,
+  "data": [
+    {
+      "id": "50d4c264-ab5a-475d-bffc-8fb8c88c8202",
+      "name": "QA Search Test 1768821714499",
+      "description": "QA Automation Description Bonus tubineus benigne timidus amor.",
+      "brand": "QA Brand Kozey, Mar",
+      "protocol_id": "238ed759-2651-4021-873c-dbe6dd97eb9a",
+      "protocol_name": "QA Sensor Protocol",
+      "sensors": null,
+      "categories": null,
+      "sensor_names": null,
+      "image_url": "https://dev-assets.synapsis.id/nearon/sensor-catalog/20260119112154523.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GK3ddd7ab8fc59a5de540b129a%2F20260119%2Fgarage%2Fs3%2Faws4_request&X-Amz-Date=20260119T112154Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7ccd181c6e601553f0373ee48af79c14ef8805badd616b507c7406736919fc5d",
+      "created_at": "2026-01-19T11:21:54.738347Z",
+      "updated_at": "2026-01-19T11:21:54.738347Z"
+    }
+  ]
+}
+📝 Found Catalog ID: 50d4c264-ab5a-475d-bffc-8fb8c88c8202
+✅ Search completed in 190ms

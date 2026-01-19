@@ -1,7 +1,0 @@
-📦 Deploy Device Response (No Auth): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Unauthorized deploy attempt completed in 180ms

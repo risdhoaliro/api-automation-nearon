@@ -1,8 +1,0 @@
-📦 Create Project Response (Invalid Company ID): {
-  "code": 403,
-  "status": false,
-  "message": "Company id is not match",
-  "data": "Company id is not match"
-}
-📊 API Response - Status: false, Code: 403
-✅ Invalid company ID validation completed in 151ms
