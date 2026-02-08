@@ -1,7 +1,0 @@
-📦 Create Sensor Catalog Response (Empty Protocol ID): {
-  "code": 400,
-  "status": false,
-  "message": "ProtocolID is required, ",
-  "data": "ProtocolID is required, "
-}
-✅ Empty protocol_id validation completed in 191ms

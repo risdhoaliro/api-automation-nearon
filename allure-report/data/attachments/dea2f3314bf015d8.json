@@ -1,6 +1,0 @@
-{
-  "code": 500,
-  "status": false,
-  "message": "error assigning category to hardware device models: ERROR: insert or update on table \"hardware_device_models_categories\" violates foreign key constraint \"hardware_device_models_categories_category_id_fkey\" (SQLSTATE 23503)",
-  "data": "error assigning category to hardware device models: ERROR: insert or update on table \"hardware_device_models_categories\" violates foreign key constraint \"hardware_device_models_categories_category_id_fkey\" (SQLSTATE 23503)"
-}

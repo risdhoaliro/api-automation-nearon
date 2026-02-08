@@ -1,8 +1,0 @@
-📦 Create Sensor Catalog Response (SQL Injection): {
-  "code": 400,
-  "status": false,
-  "message": "sensor catalog QA Sensor'; DROP TABLE sensors; -- already exists",
-  "data": "sensor catalog QA Sensor'; DROP TABLE sensors; -- already exists"
-}
-📊 API Response - Status: false, Code: 400
-✅ SQL injection validation completed in 276ms

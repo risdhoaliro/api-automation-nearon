@@ -1,7 +1,0 @@
-📦 Search Sensor Catalog Response (Invalid Token): {
-  "code": 401,
-  "status": false,
-  "message": "unauthorized",
-  "data": null
-}
-✅ Invalid token search attempt completed in 207ms

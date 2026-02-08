@@ -1,8 +1,0 @@
-📦 Create Sensor Catalog Response (Long Name): {
-  "code": 201,
-  "status": true,
-  "message": "Sensor catalog created successfully",
-  "data": null
-}
-📊 API Response - Status: true, Code: 201
-✅ Long name validation completed in 216ms

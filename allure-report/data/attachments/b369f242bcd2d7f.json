@@ -1,6 +1,0 @@
-{
-  "code": 400,
-  "status": false,
-  "message": "sensor catalog QA Sensor <script>alert('XSS')</script> already exists",
-  "data": "sensor catalog QA Sensor <script>alert('XSS')</script> already exists"
-}

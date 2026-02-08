@@ -1,7 +1,0 @@
-📦 Create Sensor Catalog Response (Invalid Protocol ID): {
-  "code": 500,
-  "status": false,
-  "message": "ERROR: invalid input syntax for type uuid: \"invalid-protocol-id-12345\" (SQLSTATE 22P02)",
-  "data": "ERROR: invalid input syntax for type uuid: \"invalid-protocol-id-12345\" (SQLSTATE 22P02)"
-}
-✅ Invalid protocol_id validation completed in 184ms

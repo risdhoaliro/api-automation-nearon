@@ -1,8 +1,0 @@
-📦 Create Sensor Catalog Response (Empty Image URL): {
-  "code": 400,
-  "status": false,
-  "message": "ImageUrl is required, ",
-  "data": "ImageUrl is required, "
-}
-📊 API Response - Status: false, Code: 400
-✅ Empty image_url validation completed in 190ms

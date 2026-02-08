@@ -1,8 +1,0 @@
-📦 Create Sensor Catalog Response (Empty Description): {
-  "code": 400,
-  "status": false,
-  "message": "Description is required, ",
-  "data": "Description is required, "
-}
-📊 API Response - Status: false, Code: 400
-✅ Empty description validation completed in 182ms

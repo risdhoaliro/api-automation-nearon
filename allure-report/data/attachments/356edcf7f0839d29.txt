@@ -1,7 +1,0 @@
-📦 Create Output Data Config Response (Invalid Unit ID): {
-  "code": 500,
-  "status": false,
-  "message": "ERROR: insert or update on table \"sensor_outputs\" violates foreign key constraint \"sensor_outputs_unit_id_fkey\" (SQLSTATE 23503)",
-  "data": "ERROR: insert or update on table \"sensor_outputs\" violates foreign key constraint \"sensor_outputs_unit_id_fkey\" (SQLSTATE 23503)"
-}
-✅ Invalid unit_id validation completed in 200ms

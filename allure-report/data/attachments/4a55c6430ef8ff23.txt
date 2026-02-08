@@ -1,8 +1,0 @@
-📦 Create Output Data Config Response (Empty Custom ID): {
-  "code": 400,
-  "status": false,
-  "message": "CustomID is required, ",
-  "data": "CustomID is required, "
-}
-📊 API Response - Status: false, Code: 400
-✅ Empty custom_id validation completed in 182ms
